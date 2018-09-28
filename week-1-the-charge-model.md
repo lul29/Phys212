@@ -1,23 +1,20 @@
-## Welcome to Phys 212, Electricity and Magnetism. 
+## Louis Leblond, professor 
 
-In the previous course, we have discussed the fundamental physics of motion. How and why things move. 
+<div style="max-width:500px;">
+  [ciscode|rev=1|tool=elmsmedia|item=291|entity_type=node|render=display_mode|display_mode=image]
+</div>
 
-The one sentence summary of the course is as follows. 
+I am an associate teaching professor of physics and the director of online education in physics. I am originally from Québec in Canada. I did my PH.D at Cornell University and I worked at Texas A&M University and at the Perimeter Institute in Canada before coming to Penn State. My physics interests include cosmology and high-energy theory. 
 
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The motion of an object through space time is determined by the amount of energy and momentum it has. You can alter the motion by exchanging energy and momentum via impulses and/or work created by forces. Energy and momentum can never be created or destroyed, they can only be exchanged by forces. 
-</lrndesign-sidenote>
+I will introduce myself in more details on our first discussion board. I am looking forward to your introduction there as well!
+
+### , teaching assistant. 
 
 
-In Phys 211, we discussed gravity as a long range force and many contact forces such 
+### Quick Orientation
 
-* the normal 
-* friction
-* drag
-* tension
-* spring force. 
+Everything you need each week can always be found on the homepage on Canvas. The course is divided into weekly lessons. Each lessons will typically have: 
 
-All of these contact forces are fundamentally caused by electric interactions of subatomic particles. 
-
-The derivation from microscopic atoms to macroscopic properties of material is an interesting subject reserved for later physics courses.
-
+* List of readings
+* Course content webpage. You are currently viewing week 1 of the course content.
+* Reading quiz, discussion boards, Labs, tutorials, quiz (the activities). 
