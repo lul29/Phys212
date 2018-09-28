@@ -1,4 +1,4 @@
-We also have seen at the end of Phys 211 that the gravitational force between two objects 
+## We also have seen at the end of Phys 211 that the gravitational force between two objects 
 <lrn-math>F_{G,1\;on\;2} = F_{G,2\;on\;1} = \frac{Gm_1m_2}{r^2} </lrn-math> and the forces is directed along the the straight line joining the two objects. 
 
 This is Newton's universal theory of gravity and the fundamental constant of Nature that determines the strength of the gravitational interaction is called the gravitation constant. 
@@ -13,3 +13,15 @@ Most of the time in Phys 211, we were solving problems on the surface of the Ear
 The gravitational acceleration on the surface of the Earth is determined by the mass of the Earth and the radius of the Earth such that
 
 <lrn-math> g= \frac{GM_E}{r_E^2} \approx 9.80\;m/s^2</lrn-math>
+
+## The electric force. 
+
+As we will see the electric force has a very analogous form to the gravitational force. 
+
+The complexity of the problems will increase because
+
+* we will deal with situations where they are many more than two objects interacting. 
+* the force can be attractive and repulsive. 
+
+
+
