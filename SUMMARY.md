@@ -5,6 +5,6 @@
   * [Phys 212](instructors.md)
   * [Gravity](gravity.md)
   * [Review Forces and Vectors. ](review-forces-and-vectors.md)
-  * [Reading the text!](the-charge-model.md)
+  * [Reading the text!](reading_text.md)
 * [First Chapter](chapter1.md)
 
