@@ -8,4 +8,5 @@
   * [Reading the text!](reading_text.md)
   * [The Charge Model](the-charge-model.md)
 * [First Chapter](chapter1.md)
+* [Week 2: Coulomb's Law](week-2-coulombs-law.md)
 
