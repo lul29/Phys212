@@ -18,6 +18,14 @@ Where we take the magnitude of each charge to determine the strength of the forc
 
 <lrn-math> K =8.99 \times 10^9\;N\;m^2/C^2 </lrn-math>
 
+We almost never write Coulomb's law in terms of K, we use instead the permittivity constant 
+
+<lrn-math>\epsilon_0 = 8.85\times 10^{-12}\; C^2/N\;m^2</lrn-math>
+
+and Coulomb's law become
+
+<lrn-math>F = \frac{1}{4\pi\epsilon_0}{|q_1||q_2|}{r^2} </lrn-math>
+
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 C is the Coulomb which is the SI unit of charge. Interestingly this unit is defined in terms of electric current which we have not seen yet and maybe more interestingly, Coulomb did not even know what fundamentally charges were when he discovered the inverse-square law that bears his name. The electron was to be discovered in 1897, a 100 years after Coulomb's law!
 </lrndesign-sidenote>
