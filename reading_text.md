@@ -2,7 +2,7 @@
 <span slot="message">Sec 22.1-22.3</span>
 </stop-note>
 
-Lets get started with new things. A fair warning, this first part of the book is a bit hard to read and written in a strange way particularly when most of us know about electrons and protons. The goal is to "discover" electricity via a series of simple experiment. You do not need to learn and remember the terms "glass charges" and "plastic charges". We will use the right terminology very soon. 
+Lets get started with new things. In this first part of the book, the goal is to "discover" electricity via a series of simple experiment. You do not need to learn and remember the terms "glass charges" and "plastic charges". We will use the right terminology very soon. 
 
 ### Reading a physics textbook. 
 

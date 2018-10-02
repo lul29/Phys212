@@ -4,6 +4,6 @@
 
 
 
-
 ## Unit vectors. 
 
+[video review with gravity force]
