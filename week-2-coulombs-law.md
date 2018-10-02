@@ -4,7 +4,7 @@ In week 1 we reviewed quickly Newton theory of gravity where the force between t
 
 <lrn-math>F_{G,1\;on\;2} = F_{G,2\;on\;1} = \frac{Gm_1m_2}{r^2} </lrn-math> and the forces is directed along the the straight line joining the two objects. 
 
-This is Newton's universal theory of gravity and the fundamental constant of Nature that determines the strength of the gravitational interaction is called the gravitation constant. 
+This is Newton's universal theory of gravity and the fundamental constant of Nature that determines the strength of the gravitational interaction is called the gravitational constant. 
 
 <lrn-math>G= 6.67\times10^{-11}\;N\;m^2/kg^2 </lrn-math>
 
