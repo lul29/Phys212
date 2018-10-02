@@ -30,3 +30,9 @@ The fundamental unit of charge is denoted _e_ and it has been measured to be
 Which is a very small number!! A single electron has a charge of -_e_ while a proton has charge of _e_. 
 
 1 Coulomb corresponds to a huge number of electrons/protons!!
+
+### Review forces with Coulomb's Law. 
+
+Here is another good review of Phys 211 material but now with the electric force thrown in the mix!
+
+[PSV video, multiple different force problem]
