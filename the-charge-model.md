@@ -32,3 +32,9 @@ Charging by induction is a pretty neat way to charge an object without ever depo
 [ciscode|rev=1|tool=elmsmedia|item=4730|entity_type=node|render=display_mode|display_mode=image]
 
 [ciscode|rev=1|tool=elmsmedia|item=4731|entity_type=node|render=display_mode|display_mode=h5p]
+
+[ciscode|rev=1|tool=elmsmedia|item=4732|entity_type=node|render=display_mode|display_mode=h5p]
+
+The presence of the rod polarized the two sphere.
+
+[ciscode|rev=1|tool=elmsmedia|item=4733|entity_type=node|render=display_mode|display_mode=image]
