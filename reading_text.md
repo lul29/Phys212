@@ -6,7 +6,7 @@ Lets get started with new things. In this first part of the book, the goal is to
 
 ### Reading a physics textbook. 
 
-If you have taken a class from me, particularly online, you will know that I am big proponent of properly reading the textbook. You are not just learning from the textbook but I do expect you all to make the most out of the text before we use other resources. 
+If you have taken a class from me, particularly online, you will know that I am big proponent of properly reading the textbook. You are not just going to be learning from the textbook but I do expect you all to make the most out of the text before we use other resources. 
 
 Here some tips on how to carefully read a physics textbook.   
 
