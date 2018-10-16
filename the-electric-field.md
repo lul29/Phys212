@@ -13,7 +13,9 @@ The electric field and gravitation field are very real and contain energy. By mo
 </lrndesign-sidenote>
 
 
-concept. 
+### A vector field
+
+There are many 'fields' in physics. One could think of the temperature in the room as a field. Each point in the room would have a temperature associated with it. THis is the same thing with the electric field, at each point in the room, there is a single value of the electric field. Unlike 
 
 Formula
 
