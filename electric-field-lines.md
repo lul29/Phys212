@@ -2,11 +2,15 @@
 
 We know the electric field of a point charge but what about a configuration where there are many point charges? 
 
-You just need to add their electric field. 
+Just like we add forces to find the net force. We must add electric field to find the net electric field. This is the principle of superposition. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4741|entity_type=node|render=display_mode|display_mode=h5p]
 
 
-
-
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Read carefully section 23.2 and do example 23.1. Make note on how one needs to add the electric field as vectors. 
+</lrndesign-sidenote>
+ 
 
 ## Four models for electric field. 
 
