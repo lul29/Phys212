@@ -27,11 +27,16 @@ We will represent the electric field by vectors arrows but there is no spatial e
 
 ### So what is this good for?
 
-Given a set of electric charge we will develop tools to calculate the electric field they generate around them. Once we know the electric field at everypoint in space created a by a charge configuration we can find the force that any test charge q would feel simply by
+Given a configuration of electric charges we will develop tools to calculate the electric field they generate around them. Once we know the electric field at every points in space we can find the force that any test charge q would feel simply by
 
 <lrn-math>\vec{E}(x,y,z) = \frac{\vec{F}_{on\;q} \;at\;(x,y,z)}{q}</lrn-math>
 
+We already know the electric force felt by a point charge, this is Coulomb's Law. The point charge electric field that we will give you back Coulomb's law is just. 
 
-no units
+<lrn-math>\vec{E}=\frac{1}{4\pi\epsilon_0}\frac{q}{r_2}\hat r</lrn-math>
+
+The vector r hat is a unit vector pointing radially outward from the charge. If the charge is negative the field will point inward while if the charge is positive, it will point outward. 
+
+**Make sure you practice the unit vectors**
 
 [ciscode|rev=1|tool=elmsmedia|item=4725|entity_type=node|render=display_mode|display_mode=h5p]
