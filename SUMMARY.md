@@ -9,6 +9,6 @@
   * [The Charge Model](the-charge-model.md)
 * [Week 2: Coulomb's Law](week-2-coulombs-law.md)
   * [The Electric Field](the-electric-field.md)
-  * [Electric Field Lines](electric-field-lines.md)
+  * [The Superposition Principle](electric-field-lines.md)
   * [Practicing Integrals with Moment of Inertia ](practicing-integrals-with-moment-of-inertia.md)
 
