@@ -32,3 +32,11 @@ These 4 electric fields are so important that they are on your formula sheet.
 Electric field lines are a graphical representation of the electric field near a configuration of charge. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4734|entity_type=node|render=display_mode|display_mode=h5p]
+
+Here is the vector field diagram for the electric field around a dipole
+
+[ciscode|rev=1|tool=elmsmedia|item=4742|entity_type=node|render=display_mode|display_mode=image]
+
+and here is the corresponding electric field lines diagram. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4743|entity_type=node|render=display_mode|display_mode=image]
