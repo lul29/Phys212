@@ -8,7 +8,7 @@ Lets get started with new things. In this first part of the book, the goal is to
 
 If you have taken a class from me, particularly online, you will know that I am big proponent of properly reading the textbook. You are not just going to be learning from the textbook but I do expect you all to make the most out of the text before we use other resources. 
 
-Here some tips on how to carefully read a physics textbook.   
+Here are some tips on how to carefully read a physics textbook.   
 
 1. Read the chapter preview at the beginning and scan the whole chapter by reading just the title of each section. The goal is to get in your head what the big picture is. 
 2. Once you have the big picture. Make a list of questions that you have about that subject (think personal life if you can, to get to deeper processing). This will give you a motivation to read the text but you will also be searching for something which will make you much more attentive to all the details. 
@@ -42,7 +42,7 @@ The book is there for you to learn the material but it is not a cane. When you a
     
 ### Intense Study Cycle. 
 
-Now you have read the book and you did the reading quiz.  You have done other practice questions at the end of the book. Its now time to study for the weekly quiz or the exam or the tutorial. You should study frequently as you cannot do effective studying all in one day. 
+Now you have read the book and you did the reading quiz.  You have done other practice questions at the end of the book. It is now time to study for the weekly quiz or the exam or the tutorial. You should study frequently as you cannot do effective studying all in one day. 
 
 **Studying does not have to be long, it just has to be intense and on task (no TV, no music!). **
 
