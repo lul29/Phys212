@@ -27,7 +27,7 @@ and Coulomb's law become
 <lrn-math>F = \frac{1}{4\pi\epsilon_0}{|q_1||q_2|}{r^2} </lrn-math>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-C is the Coulomb which is the SI unit of charge. Interestingly this unit is defined in terms of electric current which we have not seen yet and maybe more interestingly, Coulomb did not even know what fundamentally charges were when he discovered the inverse-square law that bears his name. The electron was to be discovered in 1897, a 100 years after Coulomb's law!
+C is the Coulomb which is the SI unit of charge. Interestingly this unit is defined in terms of electric current which we have not seen yet and maybe more interestingly, Coulomb did not even know what fundamentally charges were when he discovered the inverse-square law that bears his name. The electron was to be discovered in 1897, 100 years after Coulomb's law!
 </lrndesign-sidenote>
 
 
