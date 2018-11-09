@@ -23,3 +23,7 @@ Sometimes the unit vector will be obvious, sometimes you will need to calculate 
 Let me illustrate this procedure with the force of gravity and next week we will apply with the electric force (and later with the magnetic force). 
 
 [ciscode|rev=1|tool=elmsmedia|item=4756|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+The worksheet for this problem solving video is available here 
+
+[ciscode|rev=1|tool=elmsmedia|item=4757|entity_type=node|render=display_mode|display_mode=document]
