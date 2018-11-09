@@ -2,6 +2,9 @@
 
 [ciscode|rev=1|tool=elmsmedia|item=4758|entity_type=node|render=display_mode|display_mode=mediavideo]
 
+The summary of that video is available here 
+
+[ciscode|rev=1|tool=elmsmedia|item=4759|entity_type=node|render=display_mode|display_mode=document]
 
 ## Unit vectors. 
 
