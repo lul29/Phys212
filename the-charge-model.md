@@ -15,7 +15,12 @@ For a conductor the electron just move.
 
 [ciscode|rev=1|tool=elmsmedia|item=4728|entity_type=node|render=display_mode|display_mode=image]
 
-For an insulator. The atoms themselves can be polarized. 
+For an insulator. The atoms themselves can be polarized.
+
+ <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+In an insulator the electrons can move within the atoms and the atoms can be polarized near the surface but the electrons do not move within with the material. There is no motion from one atom to the next. 
+</lrndesign-sidenote>
+
 
 [ciscode|rev=1|tool=elmsmedia|item=4729|entity_type=node|render=display_mode|display_mode=image]
 
