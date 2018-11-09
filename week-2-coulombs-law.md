@@ -43,4 +43,6 @@ Which is a very small number!! A single electron has a charge of -_e_ while a pr
 
 Here is another good review of Phys 211 material but now with the electric force thrown in the mix!
 
+The problem: A magician wants to know whether it could  levitate a charge object of 1 kg by placing another negatively charged plastic support 20 cm up. He wants to charge by friction and you know that typical charges acquired by friction are of the order of <lrn-math>10^{-8}\;\rm{to}\;10^{-9} </lrn-math> C. Prove to him that he is out of his mind.
+
 [PSV video, multiple different force problem]
