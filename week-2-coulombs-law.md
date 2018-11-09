@@ -45,4 +45,6 @@ Here is another good review of Phys 211 material but now with the electric force
 
 The problem: A magician wants to know whether it could  levitate a charge object of 1 kg by placing another negatively charged plastic support 20 cm up. He wants to charge by friction and you know that typical charges acquired by friction are of the order of <lrn-math>10^{-8}\;\rm{to}\;10^{-9} </lrn-math> C. Prove to him that he is out of his mind.
 
-[PSV video, multiple different force problem]
+[ciscode|rev=1|tool=elmsmedia|item=4760|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+[ciscode|rev=1|tool=elmsmedia|item=4761|entity_type=node|render=display_mode|display_mode=document]
