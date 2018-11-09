@@ -11,8 +11,6 @@ You will also explore electric charges in your lab 1.
 
 Neutral object are attracted to any other object by a process called charge polarization which occur very easily with conductor but can also occur with insulators. 
 
-[demo]
-
 For a conductor the electron just move. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4728|entity_type=node|render=display_mode|display_mode=image]
