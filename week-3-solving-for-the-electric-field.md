@@ -25,6 +25,12 @@ Reading guide: These two sections are heavy on mathematics. This may be the high
 
 PSV
 
-
+### Practice questions. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4764|entity_type=node|render=display_mode|display_mode=h5p]
+
+[ciscode|rev=1|tool=elmsmedia|item=4765|entity_type=node|render=display_mode|display_mode=h5p]
+
+Here is a diagram to help with the previous question 
+
+[ciscode|rev=1|tool=elmsmedia|item=4767|entity_type=node|render=display_mode|display_mode=image]
