@@ -13,6 +13,6 @@
   * [Electric Field Lines](electric-field-lines.md)
   * [Practicing Integrals with Moment of Inertia ](practicing-integrals-with-moment-of-inertia.md)
 * [Week 3: Solving for the Electric Field](week-3-solving-for-the-electric-field.md)
-* Capacitor
+  * Capacitor
 * [Week 4: Gauss's Law](week-4-gausss-law.md)
 
