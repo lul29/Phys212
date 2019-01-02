@@ -44,7 +44,7 @@ The book is there for you to learn the material but it is not a cane. When you a
 
 Now you have read the book and you did the reading quiz.  You have done other practice questions at the end of the book. It is now time to study for the weekly quiz or the exam or the tutorial. You should study frequently as you cannot do effective studying all in one day. 
 
-**Studying does not have to be long, it just has to be intense and on task (no TV, no music!). **
+**Studying does not have to be long, it just has to be intense and on task (no TV, no music!).**
 
 |Steps|Time|Activity|
 |---|---|---|
