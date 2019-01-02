@@ -8,8 +8,6 @@ The summary of that video is available here
 
 ## Unit vectors. 
 
-Here is a video review about force and vectors, particularly unit vectors and using components. 
-
 A unit vector is a vector of length 1. They are used when we need to indicate the direction of a physical vector quantities without changing its magnitude. 
 
 For example the force of gravity we just saw can be written as 
