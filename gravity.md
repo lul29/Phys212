@@ -1,4 +1,4 @@
-## We also have seen at the end of Phys 211 that the gravitational force between two objects 
+We also have seen at the end of Phys 211 that the gravitational force between two objects 
 <lrn-math>F_{G,1\;on\;2} = F_{G,2\;on\;1} = \frac{Gm_1m_2}{r^2} </lrn-math> and the forces is directed along the the straight line joining the two objects. 
 
 This is Newton's universal theory of gravity and the fundamental constant of Nature that determines the strength of the gravitational interaction is called the gravitational constant. 
