@@ -11,7 +11,7 @@ You will also explore electric charges in your lab 1.
 
 Neutral object are attracted to any other object by a process called charge polarization which occur very easily with conductor but can also occur with insulators. 
 
-For a conductor the electron just move. 
+For a conductor the electrons just move. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4728|entity_type=node|render=display_mode|display_mode=image]
 
@@ -41,3 +41,5 @@ Charging by induction is a pretty neat way to charge an object without ever depo
 The presence of the rod polarized the two spheres.
 
 [ciscode|rev=1|tool=elmsmedia|item=4733|entity_type=node|render=display_mode|display_mode=image]
+
+**End of Week 1** Click on next in canvas week 1 module to start your week 1 assignments. 
