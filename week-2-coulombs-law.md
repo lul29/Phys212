@@ -1,4 +1,4 @@
-## Coulomb's Law
+## Week #2 Coulomb's Law
 
 In week 1 we reviewed quickly Newton theory of gravity where the force between two objects is given by 
 
