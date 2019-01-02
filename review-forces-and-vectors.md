@@ -18,7 +18,7 @@ where the <lrn-math>\hat r </lrn-math> is a unit vector along the straight line 
 
 Sometimes the unit vector will be obvious, sometimes you will need to calculate it by finding a vector you know in that direction and dividing by its length. 
 
-<lrn-math>\hat r= \frac{\vec{r}}{r} <lrn-math>
+<lrn-math>\hat r= \frac{\vec{r}}{r} </lrn-math>
 
 Let me illustrate this procedure with the force of gravity and next week we will apply this with the electric force (and later with the magnetic force). 
 
