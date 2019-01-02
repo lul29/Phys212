@@ -11,7 +11,7 @@ The motion of an object through space time is determined by the amount of energy
 
 In Phys 211, we discussed gravity as a long range force and many contact forces such as
 
-* the normal 
+* normal 
 * friction
 * drag
 * tension
@@ -19,5 +19,5 @@ In Phys 211, we discussed gravity as a long range force and many contact forces 
 
 All of these contact forces are fundamentally caused by electric interactions of subatomic particles. 
 
-The derivation from microscopic atoms to macroscopic properties of material is an interesting subject reserved for later physics courses.
+How to go from microscopic (small) atoms to macroscopic(big) properties of material is an interesting subject reserved for later physics courses.
 
