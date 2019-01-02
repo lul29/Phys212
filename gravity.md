@@ -5,7 +5,6 @@ This is Newton's universal theory of gravity and the fundamental constant of Nat
 
 <lrn-math>G= 6.67\times10^{-11}\;N\;m^2/kg^2 </lrn-math>
 
-
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 Most of the time in Phys 211, we were solving problems on the surface of the Earth where the force of gravity between the object and the Earth was take to be approximately <lrn-math>F_G = mg </lrn-math>. This is really the same as the equation above with the mass of the second object set to be the mass of the Earth and the distance between the two objects to be set at the radius of the Earth.
 </lrndesign-sidenote>
