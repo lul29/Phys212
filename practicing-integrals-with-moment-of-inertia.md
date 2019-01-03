@@ -15,14 +15,14 @@ and similarly for y and z coordinate.
 
 Two important things to note. 
 
-* The integral must cover the whole object. You must think carefully to have the right limit of integration. 
+* The integral must cover the whole object. You must think carefully to set up the right limit of integration. 
 * the infinitesimal element of mass dm must be expressed in terms of coordinates. This is a crucial part of this type of problem. 
 
 Similarly the moment of inertia is 
 
 <lrn-math> I = \int_{over\;M} r^2 dm </lrn-math>
 
-Make sure you do example 12.2 12.5 and 12.6 without looking at solutions. If stuck, see my problem solving video below. 
+Make sure you look at examples 12.2 12.5 and 12.6. (as usual, if you have time, try them out without looking at solutions). If stuck, see my problem solving video below. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4763|entity_type=node|render=display_mode|display_mode=mediavideo]
 

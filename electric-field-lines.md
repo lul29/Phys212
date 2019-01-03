@@ -21,4 +21,4 @@ Finally for another example, here are the field lines for two positive charges.
 </lrndesign-sidenote>
 
 
-quickcheck 26.5 and following. 
+quickcheck 26.4 and quickchek 26.5 and following. 
