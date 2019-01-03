@@ -24,6 +24,10 @@ Similarly the moment of inertia is
 
 Make sure you look at examples 12.2 12.5 and 12.6. (as usual, if you have time, try them out without looking at solutions). If stuck, see my problem solving video below. 
 
+## Problem solving video. 
+
+Find the moment of inertia of a thin plate through an axis through the center and through the plane. 
+
 [ciscode|rev=1|tool=elmsmedia|item=4763|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 The worksheet for this problem is available here 
