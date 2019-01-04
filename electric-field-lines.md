@@ -20,5 +20,6 @@ Finally for another example, here are the field lines for two positive charges.
  The field lines diagram are not just qualitative, the density if field lines measure the strength of the electric field (and indicates the direction). The number of field lines emanating from a charge is a measure of how strong that charge is. Here both point charges have equal number of lines going out of them. They have to be to equal charges. 
 </lrndesign-sidenote>
 
+## Check your understanding
 
-quickcheck 26.4 and quickchek 26.5 and following. 
+[ciscode|rev=1|tool=elmsmedia|item=4805|entity_type=node|render=display_mode|display_mode=h5p]
