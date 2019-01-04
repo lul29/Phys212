@@ -13,5 +13,3 @@
   * [Electric Field Lines](electric-field-lines.md)
   * [Practicing Integrals with Moment of Inertia](practicing-integrals-with-moment-of-inertia.md)
 * [End of Book](README.md)
-
-
