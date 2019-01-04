@@ -4,10 +4,10 @@ The electric field of a continuous distribution of charges can be obtained by di
 
 <lrn-math> d\vec{E} = k\frac{dq}{r^2}\hat r </lrn-math>
 
-and the resulting electric field is the integral over the whole charge object.
+and the resulting electric field is the integral over the whole chargeD object.
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The electric field is a vector so there is in principal three integrals to do in order to find each components <lrn-math>E_x, E_y, E_z </lrn-math>. An important piece of the work i to find how the unit vector <lrn-math>\hat r </lrn-math> depends on coordinates
+The electric field is a vector so there is in principal three integrals to do in order to find each components <lrn-math>E_x, E_y, E_z </lrn-math>. An important piece of the work iS to find how the unit vector <lrn-math>\hat r </lrn-math> depends on coordinates.
 </lrndesign-sidenote>
 
 
