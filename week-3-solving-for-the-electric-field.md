@@ -23,7 +23,18 @@ This conversion is one of the crucial step and one must use the linear charge de
 Reading guide: These two sections are heavy on mathematics. This may be the highest level of calculus you may have done in a physics class up to now. Look at my problem solving video where I do example 23.3 in the book. Make sure you understand example 23.4. You should understand the steps in "a disk of charge" but I would not necessarily expect you all to be able to do the integral 23.23 in an exam. 
 </lrndesign-sidenote>
 
-PSV
+## Problem Solving video
+
+Q Example 23.3 in book. The figure shows a thin, uniformly charged rod of length L with total charge Q. Find the electric field strength at radial distance r in the plane that bisects the rod.
+
+[ciscode|rev=1|tool=elmsmedia|item=4810|entity_type=node|render=display_mode|display_mode=image]
+
+[ciscode|rev=1|tool=elmsmedia|item=4811|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+The worksheet for this problem is available here
+
+[ciscode|rev=1|tool=elmsmedia|item=4812|entity_type=node|render=display_mode|display_mode=document]
+
 
 ### Practice questions. 
 
