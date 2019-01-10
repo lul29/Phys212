@@ -14,6 +14,8 @@
   * [Practicing Integrals with Moment of Inertia](practicing-integrals-with-moment-of-inertia.md)
   * [Learning to Learn](learning-to-learn.md)
   * [Cognitive Psychology](cognitive.md)
+  * [Metacognition](metacognition.md)
+  * [Video on learning](video-on-learning.md)
 * [Week 3: Solving for the Electric Field](week-3-solving-for-the-electric-field.md)
   * [Capacitor](week-3-solving-for-the-electric-field/capacitor.md)
   * [Motion of charges/dipoles in an electric field](week-3-solving-for-the-electric-field/motion-of-charges-in-an-electric-field.md)
