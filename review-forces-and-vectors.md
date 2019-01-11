@@ -4,7 +4,7 @@
 
 The summary of that video is available here 
 
-[ciscode|rev=1|tool=elmsmedia|item=4759|entity_type=node|render=display_mode|display_mode=document]
+[ciscode|rev=1|tool=elmsmedia|item=4759|entity_type=node|render=display_mode|display_mode=document__pdf]
 
 ## Unit vectors. 
 
