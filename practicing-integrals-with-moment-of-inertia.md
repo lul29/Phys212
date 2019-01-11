@@ -32,4 +32,4 @@ Find the moment of inertia of a thin plate through an axis through the center an
 
 The worksheet for this problem is available here 
 
-[ciscode|rev=1|tool=elmsmedia|item=4808|entity_type=node|render=display_mode|display_mode=document]
+[ciscode|rev=1|tool=elmsmedia|item=4808|entity_type=node|render=display_mode|display_mode=document__pdf]
