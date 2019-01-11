@@ -26,4 +26,4 @@ Let me illustrate this procedure with the force of gravity and next week we will
 
 The worksheet for this problem solving video is available here 
 
-[ciscode|rev=1|tool=elmsmedia|item=4757|entity_type=node|render=display_mode|display_mode=document]
+[ciscode|rev=1|tool=elmsmedia|item=4757|entity_type=node|render=display_mode|display_mode=document__pdf]
