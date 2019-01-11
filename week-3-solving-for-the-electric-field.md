@@ -33,7 +33,7 @@ Q Example 23.3 in book. The figure shows a thin, uniformly charged rod of length
 
 The worksheet for this problem is available here
 
-[ciscode|rev=1|tool=elmsmedia|item=4812|entity_type=node|render=display_mode|display_mode=document]
+[ciscode|rev=1|tool=elmsmedia|item=4812|entity_type=node|render=display_mode|display_mode=document__pdf]
 
 
 ### Practice questions. 
