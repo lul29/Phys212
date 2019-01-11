@@ -47,4 +47,4 @@ The problem: A magician wants to know whether it could  levitate a charge object
 
 [ciscode|rev=1|tool=elmsmedia|item=4760|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-[ciscode|rev=1|tool=elmsmedia|item=4761|entity_type=node|render=display_mode|display_mode=document]
+[ciscode|rev=1|tool=elmsmedia|item=4761|entity_type=node|render=display_mode|display_mode=document__pdf]
