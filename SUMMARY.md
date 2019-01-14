@@ -23,5 +23,6 @@
   * [Symmetry](symmetry.md)
   * [The Electric flux](the-electric-flux.md)
   * [Closed Gaussian surface](close-gaussian-surface.md)
+  * [Conductors in Electrostatic Equilibrium](conductors-in-electrostatic-equilibrium.md)
 * [End of Book](README.md)
 
