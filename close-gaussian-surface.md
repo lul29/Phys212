@@ -19,3 +19,12 @@ The surface integral are hard to do in general and left for later math course. I
 Finally the statement of Gauss law is 
 
 <lrn-math> \Phi_e =\oint \vec{E}\cdot d\vec{A} = \frac{Q_{in}}{\epsilon_0} </lrn-math>
+
+The derivation of this in the book first start by showing that the flux does not depend on the exact shape and then continue by using Coulomb's law for the special shape of a sphere. It turns out that Gauss's Law could be taken as the fundamental law of physics from which Coulomb's law can be derived. 
+
+
+## Let's apply this!
+
+
+
+[ciscode|rev=1|tool=elmsmedia|item=4818|entity_type=node|render=display_mode|display_mode=h5p]
