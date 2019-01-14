@@ -22,6 +22,6 @@
 * [Week 4: Gauss's Law](week-4-gausss-law.md)
   * [Symmetry](symmetry.md)
   * [The Electric flux](the-electric-flux.md)
-  * Close Gaussian surface
+  * [Closed Gaussian surface](close-gaussian-surface.md)
 * [End of Book](README.md)
 
