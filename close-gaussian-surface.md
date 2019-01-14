@@ -27,3 +27,9 @@ The derivation of this in the book first start by showing that the flux does not
 
 
 [ciscode|rev=1|tool=elmsmedia|item=4818|entity_type=node|render=display_mode|display_mode=h5p]
+
+[ciscode|rev=1|tool=elmsmedia|item=4819|entity_type=node|render=display_mode|display_mode=h5p]
+
+This is powerful. Note that the Gaussian surface is a completely arbitrary shape that you can choose as you wish. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4820|entity_type=node|render=display_mode|display_mode=h5p]
