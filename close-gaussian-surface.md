@@ -26,5 +26,4 @@ The derivation of this in the book first start by showing that the flux does not
 ## Let's apply this!
 
 
-
 [ciscode|rev=1|tool=elmsmedia|item=4818|entity_type=node|render=display_mode|display_mode=h5p]
