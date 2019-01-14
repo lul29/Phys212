@@ -9,7 +9,9 @@ We have already use this notion of symmetry. In my problem solving video on exam
 
 ## The three most basics symmetry are planar, cylindrical and spherical. 
 
-In the figure below from the book I added the equations from your formula sheet for the electric field. Each of these equations can be derived with the integral techniques of the previous chapter (using the superposition principle). It turns out that each of these can be derived in what many physicist will call a "cleaner" way using Gauss' law. 
+In the figure below from the book I added the equations from your formula sheet for the electric field. Each of these equations can be derived with the integral techniques of the previous chapter (using the superposition principle). It turns out that each of these can also be derived in what many physicist will call a "cleaner" way using Gauss' law. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4813|entity_type=node|render=display_mode|display_mode=image]
+
+This is done in part in section 24.5. Have a look but we will not ask you to redo these calculations. 
 
