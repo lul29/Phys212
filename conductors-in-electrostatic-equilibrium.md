@@ -28,3 +28,5 @@ if they are charges inside the hole, then there will a surface charge density on
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 Remember that we know all these facts simply by using that electrons can move freely and Gauss' law tell us that if the E field is zero, the charge inside the gaussian surface must be zero!
 </lrndesign-sidenote>
+
+[ciscode|rev=1|tool=elmsmedia|item=4827|entity_type=node|render=display_mode|display_mode=h5p]
