@@ -13,7 +13,7 @@ The most important points here are (all derived from Gauss' Law)
  
  This imply that if there is a hole in a conductor (with no charge in the hole, the electric field must be zero inside, always. 
  
- [ciscode|rev=1|tool=elmsmedia|item=4825|entity_type=node|render=display_mode|display_mode=image]
+ [ciscode|rev=1|tool=elmsmedia|item=4825|entity_type=node|render=display_mode|display_mode=mediavideo]
  
 ## Faraday's Cage
 
