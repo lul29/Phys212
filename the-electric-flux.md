@@ -6,7 +6,7 @@ The idea of Gauss' Law is to look at some region of space, define an abstract su
 
 We will define electric flux as electric field times the area but the direction of the surface will matter. We will therefore define a vector for the area to be
 
-<lrn-math>\vec{A] = A\hat n </lrn-math>
+<lrn-math>\vec{A} = A\hat n </lrn-math>
 where the direction <lrn-math>\hat n </lrn-math> is perpendicular to the surface and A is the magnitude of the area A. 
 
 The electric flux is then (for a constant electric field over the surface)
