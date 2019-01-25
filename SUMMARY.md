@@ -24,5 +24,7 @@
   * [The Electric flux](the-electric-flux.md)
   * [Closed Gaussian surface](close-gaussian-surface.md)
   * [Conductors in Electrostatic Equilibrium](conductors-in-electrostatic-equilibrium.md)
+* [Week 5: The Electric Potential](week-5-the-electric-potential.md)
+* [Reading Guide Chap 25](reading-guide-chap-25.md)
 * [End of Book](README.md)
 
