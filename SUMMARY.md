@@ -28,6 +28,6 @@
   * [Energy Review](energy.md)
   * [Reading Guide Chap 25](reading-guide-chap-25.md)
   * [Problem Solving Videos](problem-solving-videos.md)
-  * Check your Understanding
+  * [Check your Understanding](check-your-understanding.md)
 * [End of Book](README.md)
 
