@@ -27,5 +27,6 @@
 * [Week 5: The Electric Potential](week-5-the-electric-potential.md)
   * [Energy Review](energy.md)
   * [Reading Guide Chap 25](reading-guide-chap-25.md)
+  * Problem Solving Videos
 * [End of Book](README.md)
 
