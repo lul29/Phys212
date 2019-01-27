@@ -12,6 +12,7 @@ The book start by discussing electric potential energy. It is now time to review
 * Potential energy is an energy of the whole system. If the force is external to the system (because of the way you defined the system) you must use the concept of work not potential energy.
 * Non-conservative forces (such as friction, drag) within the system do not have potential energy. Instead they lead to an increase in the thermal energy of the system. 
  
+ [ciscode|rev=1|tool=elmsmedia|item=4831|entity_type=node|render=display_mode|display_mode=image]
 
 ### Review of Energy bar Charts. 
 

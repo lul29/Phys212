@@ -6,4 +6,5 @@ This chapter introduces the idea of electric potential. This is the idea of  vol
 <span slot="message">Chap 25</span>
 </stop-note>
 
+The potential energy due to the electric field 
 
