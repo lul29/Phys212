@@ -1,7 +1,3 @@
-## Reading guide Chap 25
-
-This chapter introduces the idea of electric potential. This is the idea of  voltage something that everyone knows a little bit from daily experience. 
-
 The book start by discussing electric potential energy. It is now time to review yet another important concept from Phys 211, energy, and we will apply it to this new electric force. 
 
 ## Important Energy Concepts quick review (see chap 9, 10)
@@ -16,11 +12,6 @@ The book start by discussing electric potential energy. It is now time to review
 * Potential energy is an energy of the whole system. If the force is external to the system (because of the way you defined the system) you must use the concept of work not potential energy.
 * Non-conservative forces (such as friction, drag) within the system do not have potential energy. Instead they lead to an increase in the thermal energy of the system. 
  
-
-<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
-<span slot="message">Chap 25</span>
-</stop-note>
-
 
 ### Review of Energy bar Charts. 
 
