@@ -43,7 +43,7 @@ We will use multiple ways to visualize the potential. I like contour map the bes
 Finally section 25.7 is the electric point charge of multiple charges. Like the electric field, the electric potential can be obtained by adding the contributions from all the charge. For a continuous distribution of charge, this is an integral. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Integral of V are easier than the electric field because the voltage is a scalar. There is no direction, no <lrn-math>\hat r </lrn-math>
+Integral of V are easier than the electric field because the voltage is a scalar. There is no direction, no <lrn-math>\hat r </lrn-math>.
 </lrndesign-sidenote>
 
 
