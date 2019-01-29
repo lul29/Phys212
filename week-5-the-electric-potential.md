@@ -1,6 +1,5 @@
 ## The Electric Potential. 
 
-Why is a 12 Volt car battery more dangerous that a 9V household battery?
 
 What does voltage mean? How is high voltage dangerous?
 
