@@ -12,7 +12,7 @@ The potential energy due to the electric force comes from integrating the force 
  * for point charges. The potential energy is <lrn-math> U=\frac{Kq_1q_2}{r} </lrn-math>. This is the potential energy between each pair of charges. The eye often gloss over but remember this is 1/r NOT 1/r^2. And this is NOT a vector. So two important differences from what the electric field was. 
  
  <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
- These formulas are very similar to what we had with gravity.  Near the Earth where the force of gravity is nearly constant <lrn-math> \Delta U_G=mg\Delta y</lrn-math> while in space <lrn-math>U_G=-\frac{Gm_1m_2}{r}</lrn-math>. The main difference with electricity is the possible sign difference of the charges. The protons and electrons move in opposite directions to decrease their energy. It is as if some special particle would want to move up from the Earth!
+ These formulas are very similar to what we had with gravity.  Near the Earth where the force of gravity is nearly constant <lrn-math> \Delta U_G=mg\Delta y</lrn-math> while in space <lrn-math>U_G=-\frac{Gm_1m_2}{r}</lrn-math>. The main difference with electricity is the possible sign difference of the charges. The protons and electrons move in opposite directions to decrease their energy. It is as if some special particle would want to move up from the Earth!
 </lrndesign-sidenote>
 
 Do carefully examples (before looking at solutions) 25.2, 25.3 and 25.4. Note that when there are multiple point charges, you should not double count!
@@ -38,9 +38,9 @@ Examples 25.6-25.8 are all great examples of applying conservation of energy to 
 The one thing confusing with the concept of potential (V) is the following. Both electrons and protons always move in the direction of **decreasing** potential energy (unless external work is done on them). As we have stated, these are opposite directions in space but still both decrease their energy. When we use the concept of potential, we divide by the charge. The result is that now **protons move to decrease their V, while electrons move to increase their V**. The electrons increase their potential in order to decrease their potential energy. (multiplying by negative charge).  
 </lrndesign-sidenote>
 
-We will use multiple ways to visualize the potential. I like contour map the best and then I need to remember that electrons want to go up!
+We will use multiple ways to visualize the potential. I like contour map the best and then I need to remember that electrons want to go up mountains!
 
-Finally section 25.7 is the electric point charge of multiple charges. Like the electric field, the electric potential can be obtained by adding the contributions from all the charge. For a continuous distribution of charge, this is an integral. 
+Finally section 25.7 is the electric point charge of multiple charges. Like the electric field, the electric potential can be obtained by adding the contributions from all the charges. For a continuous distribution of charges, this is an integral. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 Integral of V are easier than the electric field because the voltage is a scalar. There is no direction, no <lrn-math>\hat r </lrn-math>.
