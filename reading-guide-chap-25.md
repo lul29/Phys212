@@ -35,7 +35,7 @@ Problem solving strategy 25.1 is just energy conservation applied to our context
 Examples 25.6-25.8 are all great examples of applying conservation of energy to electric situations. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The one thing confusing with the concept of potential (V) is the following. Both electrons and protons always move in the direction of **decreasing** potential energy (unless external work is done on them). As we have stated, these are opposite directions in space but still both decrease their energy. When we use the concept of potential, we divide by the charge. The result is that now **protons move to decrease their V, while electrons move to increase their V**. The electrons increase their potential in order to decrease their potential energy. (multiplying by negative charge).  
+The one thing confusing with the concept of potential (V) is the following. Both electrons and protons always move in the direction of <b>decreasing</b> potential energy (unless external work is done on them). As we have stated, these are opposite directions in space but still both decrease their energy. When we use the concept of potential, we divide by the charge. The result is that now <b>protons move to decrease their V, while electrons move to increase their V</b>. The electrons increase their potential in order to decrease their potential energy. (multiplying by negative charge).  
 </lrndesign-sidenote>
 
 We will use multiple ways to visualize the potential. I like contour map the best and then I need to remember that electrons want to go up mountains!
