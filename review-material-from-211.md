@@ -13,4 +13,11 @@ The relationship from Phys 211 was that the potential energy associated with a c
 ### Notes
 
 * only the component of the force along the path matters. If the force is perpendicular to the path, the work is zero. 
-* Potential energy depends on position, this formula gives the potential energy at position <lrn-math>s_f </lrn-math> - the potential energy at position <lrn-math> s_i </lrn-math>
+* Potential energy depends on position, the formula above gives the potential energy at position <lrn-math>s_f </lrn-math> - the potential energy at position <lrn-math> s_i </lrn-math>
+* The electric force is conservative which means that the work will be the same for all paths between position i and position f. 
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+The last part is important! You can choose the path when doing the integral so choose something that simplifies your life and make the integral easier. 
+</lrndesign-sidenote>
+
+## Line integral. 
