@@ -35,5 +35,5 @@
   * [Beginning Circuits](beginning-circuits.md)
 * [End of Book](README.md)
 * [Problem Solving Videos Week 6](problem-solving-videos-week-6.md)
-* Check your Understanding Week 6
+* [Check your Understanding Week 6](check-your-understanding-week-6.md)
 
