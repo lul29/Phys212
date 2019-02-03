@@ -21,7 +21,7 @@ In Week 4 we saw that
 * the electric field is zero inside the conductor. 
 * the electric field at the surface is perpendicular to the surface. 
 
-We now add a few statements regarding potential
+We now can add a few more statements regarding potential
 
 * the whole conductor is an equipotential. 
-* the E field goes like V/R for a sharp conductor tip. The electric field can become very intense and create corona discharge. 
+* the E field goes like V/R for a conductor tip of size R. The electric field can become very intense and create corona discharge. Essentially the amound 
