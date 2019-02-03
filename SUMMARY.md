@@ -30,4 +30,5 @@
   * [Problem Solving Videos](problem-solving-videos.md)
   * [Check your Understanding](check-your-understanding.md)
 * [End of Book](README.md)
+* [Week 6: Potential and Field](week-6-potential-and-field.md)
 
