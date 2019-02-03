@@ -6,7 +6,7 @@
 
 The first part of Chap 6 is theoretical about the connections between potential and electric field. 
 
-Essentially the electric field is the derivative over space of the potential while the potential is the integral of the electric field. Relations 26.3 and 26.9
+Essentially the electric field is the derivative over space of the potential while the potential is the integral of the electric field: Relations 26.3 and 26.9.
 
 Since the electric field is a vector and potential is a scalar, the relationship are actually a line integral of E yields V while the gradient of V yields E. As the book states, we will mostly do this graphically. 
 
@@ -25,7 +25,6 @@ We now can add a few more statements regarding potential
 
 * the whole conductor is an equipotential. 
 * the E field goes like V/R for a conductor tip of size R. The electric field can become very intense and create corona discharge. 
-
 
 demo videos
 
