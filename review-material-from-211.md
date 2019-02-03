@@ -21,3 +21,11 @@ The last part is important! You can choose the path when doing the integral so c
 </lrndesign-sidenote>
 
 ## Line integral. 
+
+A line integral is an integral of a function to be evaluated over a specific path. The path has a direction (from A to B in the figure below). In this course, we will encounter line integrals of vectors functions so we will only discuss this case here. 
+
+Suppose you have some vector functions that varies over space    <lrn-math> \vec{F}(x,y,z) </lrn-math>. We define the line integral of this vector function over a path C as follows
+<lrn-math> \int_C \vec{F}(x,y,z \cdot d\vec{l} </lrn-math>
+where we took a dot product between <lrn-math>\vec{F} </lrn-math> and <lrn-math>d\vec{l} </lrn-math> which is a vector with length dl that points tangent to the path in the direction of the path.
+
+To do this integral you may need to divide the part into different segment, evaluate the dot products and integrate over the appropriate limits for each segments. 
