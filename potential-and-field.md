@@ -27,3 +27,5 @@ We now can add a few more statements regarding potential
 * the E field goes like V/R for a conductor tip of size R. The electric field can become very intense and create corona discharge. 
 
 
+demo videos
+
