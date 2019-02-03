@@ -31,4 +31,7 @@
   * [Check your Understanding](check-your-understanding.md)
 * [Week 6: Potential and Field](week-6-potential-and-field.md)
   * [Review material from 211](review-material-from-211.md)
+  * [Potential and Field](potential-and-field.md)
+  * [Beginning Circuits](beginning-circuits.md)
 * [End of Book](README.md)
+
