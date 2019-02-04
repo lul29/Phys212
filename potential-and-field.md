@@ -26,5 +26,8 @@ We now can add a few more statements regarding potential
 * the whole conductor is an equipotential. 
 * the E field goes like V/R for a conductor tip of size R. The electric field can become very intense and create corona discharge. 
 
-demo videos
+In this demo video, I show the Wimhurst machine and Van Der Graff, I should have shown this video earlier in the course in the context of static electricity but it is relevant here with the Corona discharge effect. 
 
+The idea is that the electric field is very intense near the tip of the metal and one can discharge a van der graaf. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4845|entity_type=node|render=display_mode|display_mode=mediavideo]
