@@ -1,5 +1,10 @@
 ## Beginning Circuits. 
 
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+<span slot="message">26.4-26.6</span>
+</stop-note>
+
+Ok we are now ready to put all the things together. 
 
 battery demo
 
