@@ -8,7 +8,7 @@ The most important points here are (all derived from Gauss' Law)
 
 * the electric field is zero inside the conductor. 
 * the electric field at the surface is perpendicular to the surface. 
-* the magnitude of the electric field at the surface is <lrn-math>E =\eta/epsilon_0 </lrn-math> where <lrn-math>\eta </lrn-math> is the surface charge density of the conductor.
+* the magnitude of the electric field at the surface is <lrn-math>E =\eta/\epsilon_0 </lrn-math> where <lrn-math>\eta </lrn-math> is the surface charge density of the conductor.
 
  
  This implies that if there is a hole in a conductor (with no charge in the hole), the electric field must be zero inside, always. 
