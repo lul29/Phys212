@@ -4,11 +4,11 @@
 <span slot="message">Section 26.1-26.3</span>
 </stop-note>
 
-The first part of Chap 6 is theoretical about the connections between potential and electric field. 
+The first part of Chap 6 is more theoretical about the connections between potential and electric field. 
 
 Essentially the electric field is the derivative over space of the potential while the potential is the integral of the electric field: Relations 26.3 and 26.9.
 
-Since the electric field is a vector and potential is a scalar, the relationship are actually a line integral of E yields V while the gradient of V yields E. As the book states, we will mostly do this graphically. 
+Since the electric field is a vector and potential is a scalar, the relationships are actually a line integral of E yields V while the gradient of V yields E. As the book states, we will mostly do this graphically. 
 
 * remember that you decide where the zero of potential is. For a point charge, choose the zero to be at infinity. 
 * there is a minus sign in both expressions. 
@@ -16,12 +16,20 @@ Since the electric field is a vector and potential is a scalar, the relationship
 
 ### Conductors. 
 
-In Week 4 we saw that 
+Conductors are special compared to insulator because the charges can move and will move as much as they can. Starting next week, we will start looking at situations where charges are moving inside of conductor leading to currents. 
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+  For this week, we are still considering ourselves in static equilibrirum
+</lrndesign-sidenote>
+
+
+
+In week 4, we saw that 
 
 * the electric field is zero inside the conductor. 
-* the electric field at the surface is perpendicular to the surface. 
+* the electric field at the surface of a conductor is perpendicular to the surface. 
 
-We now can add a few more statements regarding potential
+We now can add a few more observations with conductors regarding potential
 
 * the whole conductor is an equipotential. 
 * the E field goes like V/R for a conductor tip of size R. The electric field can become very intense and create corona discharge. 
