@@ -6,7 +6,7 @@ In this chapter, we will see Gauss' Law which is one of the four most fundamenta
 
 Gauss' Law is most often written as
 
-<lrn-math>\Phi_e=\oint \vec{E}\cdot d\vec{A} = \frac{Q_in}{\epsilon_0} </lrn-math>
+<lrn-math>\Phi_e=\oint \vec{E}\cdot d\vec{A} = \frac{Q_{in}}{\epsilon_0} </lrn-math>
 
 Now there is a lot to unpack in this mathematical formula. It is very abstract and involve multiple new concepts
 
