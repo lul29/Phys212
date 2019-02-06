@@ -36,6 +36,6 @@
   * [Problem Solving Videos Week 6](problem-solving-videos-week-6.md)
   * [Check your Understanding Week 6](check-your-understanding-week-6.md)
 * [Week 7: Dielectrics, Currents and Resistances. ](week-7-dielectrics-currents-and-resistances.md)
-* [End of Book](README.md)
+* Dielectrics. 
 * Dielectrics. 
 
