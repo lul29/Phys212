@@ -37,7 +37,7 @@
   * [Check your Understanding Week 6](check-your-understanding-week-6.md)
 * [Week 7: Dielectrics, Currents and Resistances. ](week-7-dielectrics-currents-and-resistances.md)
   * [Dielectrics](week-7-dielectrics-currents-and-resistances/dielectrics.md)
-  * Current and Resistance
-  * Problem Solving Videos Week 7
-  * Check your Understanding Week 7
+  * [Current and Resistance](week-7-dielectrics-currents-and-resistances/current-and-resistance.md)
+  * [Problem Solving Videos Week 7](week-7-dielectrics-currents-and-resistances/problem-solving-videos-week-7.md)
+  * [Check your Understanding Week 7](week-7-dielectrics-currents-and-resistances/check-your-understanding-week-7.md)
 
