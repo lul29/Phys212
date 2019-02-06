@@ -18,3 +18,4 @@ What you should know from section 27.1-27.2 are
 The direction of the current is traditionally defined as the direction of the electric field so from + to -. The electron current is actually in the opposite direction as the electric field!
 </lrndesign-sidenote>
   
+Convention current
