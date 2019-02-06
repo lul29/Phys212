@@ -1,5 +1,12 @@
 ## Dielectrics
 
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+<span slot="message">Read section 26.7</span>
+</stop-note>
+
+This section will take a little while to understand. Physically there is a lot going on here so go slowly. The two worked out examples are simple but should help with the basics concepts. 
+
+## Important points. 
 
 A dielectric is material that can be polarized in the presence of an electric field. The polarization creates a new electric field (E induced) that is in the opposite direction of the original. The electric field inside of a dieletric has thus two components (hence the name). 
 
@@ -14,4 +21,4 @@ Mathematically, dielectrics are described by the dieletric constant where
 
 <lrn-math>\kappa = \frac{E_0}{E} </lrn-math>
 
-where the 0 refers to the vacuum electric field. The capacitance is increase by and the capacitance 
+where the 0 refers to the vacuum electric field. The capacitance is increased by this factor <lrn-math> \kappa </lrn-math>. 
