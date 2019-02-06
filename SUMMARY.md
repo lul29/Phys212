@@ -29,5 +29,10 @@
   * [Reading Guide Chap 25](reading-guide-chap-25.md)
   * [Problem Solving Videos](problem-solving-videos.md)
   * [Check your Understanding](check-your-understanding.md)
-* [End of Book](README.md)
+* [Week 6: Potential and Field](week-6-potential-and-field.md)
+  * [Review material from 211](review-material-from-211.md)
+  * [Potential and Field](potential-and-field.md)
+  * [Beginning Circuits](beginning-circuits.md)
+  * [Problem Solving Videos Week 6](problem-solving-videos-week-6.md)
+  * [Check your Understanding Week 6](check-your-understanding-week-6.md)
 
