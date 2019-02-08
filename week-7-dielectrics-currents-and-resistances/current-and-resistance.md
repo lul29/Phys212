@@ -6,7 +6,7 @@
 
 Read the whole chapter but we will not use the model of conduction of section 27.2 very much in this course. 
 
-**Example 27.1-27.3 do not need to be done
+**Example 27.1-27.3 DO NOT need to be done
 
 ### The Electron current
 
@@ -22,7 +22,7 @@ The direction of the current is traditionally defined as the direction of the el
   
 ## Conventional current
 
-Section 27.3-27.5 then define 3 basics concepts 
+Section 27.3-27.5 then define three basics concepts 
 
 * the conventional current denoted <lrn-math> I </lrn-math>: It is just the rate of change of charge per unit of time, eq 27.9. 
 * the current density J which is just current per area. 
@@ -31,6 +31,8 @@ Section 27.3-27.5 then define 3 basics concepts
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 Again all the formulas relating current to drift speed and electron density are not so important since they involve the model of conduction of section 27.2 that we are not emphasizing in this course. You do not need to do Example 27.4.
 </lrndesign-sidenote>
+
+Current is conserved so the current going in a junction is the  current going out. 
 
 Finally the chapter ends with Ohm's law which is important. By relating the E field to potential and using relation <lrn-math>J=\sigma E </lrn-math> one find Ohm's law
 
