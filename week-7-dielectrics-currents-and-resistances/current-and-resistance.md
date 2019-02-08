@@ -34,6 +34,8 @@ Again all the formulas relating current to drift speed and electron density are 
 
 Current is conserved so the current going in a junction is the  current going out. 
 
+[ciscode|rev=1|tool=elmsmedia|item=4862|entity_type=node|render=display_mode|display_mode=image]
+
 Finally the chapter ends with Ohm's law which is important. By relating the E field to potential and using relation <lrn-math>J=\sigma E </lrn-math> one find Ohm's law
 
 <lrn-math> \Delta V = I R </lrn-math>
