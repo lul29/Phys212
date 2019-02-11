@@ -35,7 +35,7 @@ C=\frac{Q}{\Delta V_C}
 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
- The book then discussed the equivalent capacitance of capacitor in series and in parallel. See my video next page for more on this. 
+ The book then discusses the equivalent capacitance of capacitor in series and in parallel. See my video next page for more on this. 
 </lrndesign-sidenote>
 
 ### Energy in capacitor and E field
@@ -55,5 +55,5 @@ or
 U_C = \frac12 C(\Delta V_C)^2 </lrn-math>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
- This is potential energy, we can get back this energy by discharging the capacitor. Where is the energy?? It turns out that the energy is in the electric field. The electric field, again, is very real and contain the energy. Eq 26.27 about the energy density of an electric field is always true. Whenever there is an electric field in space, the energy density is given by <lrn-math>\frac{\epsilon_0}{2} E^2 </lrn-math>. The total energy is this density times the volume of space over which the E field constant. For a non-constant E field, we need to do a volume integral. 
+ This is potential energy, we can get back this energy by discharging the capacitor. Where is the energy?? It turns out that the energy is in the electric field. The electric field, again, is very real and contain the energy. Eq 26.27 about the energy density of an electric field is always true. Whenever there is an electric field in space, the energy density is given by <lrn-math>\frac{\epsilon_0}{2} E^2 </lrn-math>. The total energy is this density times the volume of space over which the E field constant. For a non-constant E field, we need to do a volume integral. 
 </lrndesign-sidenote>
