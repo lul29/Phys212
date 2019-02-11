@@ -16,4 +16,6 @@ a) How much charge is delivered for a lightning bold with these parameters?
 
 b) You don't want the potential difference between the top and bottom of the lightning rod to exceed 100 V. What minimum diameter must the rod have?
 
+[ciscode|rev=1|tool=elmsmedia|item=4869|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 [ciscode|rev=1|tool=elmsmedia|item=4867|entity_type=node|render=display_mode|display_mode=document__pdf]
