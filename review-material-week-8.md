@@ -27,4 +27,4 @@ Power is the rate of change of energy. (like speed is the rate of change of posi
 
 ## Math this week
 
-algebra!! We will have to solve multiple equations with multiple unknown
+algebra!! We will have to solve multiple equations with multiple unknown.
