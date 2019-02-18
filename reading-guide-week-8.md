@@ -1,4 +1,4 @@
-## Reading Guide Week 8
+## Reading Guide Week 8 Fundamental of Circuits. 
 
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
 <span slot="message">Sec 28.1-28.8</span>
