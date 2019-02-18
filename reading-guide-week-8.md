@@ -20,7 +20,5 @@ Section 28.2 has all the crucial information in Eq 28.1 and Eq 28.2 and tactics 
 The sign conventions for the change in potential across a battery and resistor are crucial to learn. 
 </lrndesign-sidenote>
 
-
-
 ### Doing the worked out example problems. 
  
