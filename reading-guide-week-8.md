@@ -36,7 +36,6 @@ The chapters then analyze, resistor in series, resistors in parallels, real batt
 
 Section 27.7 introduces the case of multi-loop circuits where one needs to be more methodical. Look carefully at problem solving strategy 28.1 and the two worked out examples 28.9, 28.10. 
  
- 
  <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 We keep section 28.9 for next week while section 28.8 explains the concept of grounding. 
 </lrndesign-sidenote>
@@ -54,4 +53,4 @@ Do not read example solutions in the book right away. Here is how to do example 
 5. If after 2 attempts (say 1/2 hour at least), it does not work look at the solution provided by the author. You will need to try a similar problem again later to make sure you can do it without help.  
 
 
-All the worked example in this chapter are worth doing with many of them being very simple (just one equation). Example 28.6 shows you why car battery are dangerous. 
+All the worked example in this chapter are worth doing with many of them being very simple (just one equation). Example 28.6 shows you why car battery are dangerous
