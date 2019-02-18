@@ -36,7 +36,10 @@ The chapters then analyze, resistor in series, resistors in parallels, real batt
 
 Section 27.7 introduces the case of multi-loop circuits where one needs to be more methodical. Look carefully at problem solving strategy 28.1 and the two worked out examples 28.9, 28.10. 
  
-
+ 
+ <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+We keep section 28.9 for next week while section 28.8 explains the concept of grounding. 
+</lrndesign-sidenote>
 
 ### Doing the worked out example problems. 
  
