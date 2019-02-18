@@ -43,4 +43,7 @@
 * [Week 8: Fundamental of Circuits](week-8-fundamental-of-circuits.md)
   * [Review material - week 8](review-material-week-8.md)
   * [Reading Guide Week 8](reading-guide-week-8.md)
+* [Analyzing Data](analyzing-data.md)
+* [The best fit](the-best-fit.md)
+* [Excel](excel.md)
 
