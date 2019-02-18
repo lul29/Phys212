@@ -34,16 +34,18 @@ The chapters then analyze, resistor in series, resistors in parallels, real batt
  This chapter explains how a voltmeter (such as the IOLab) is used in parallel and how it needs to have a high resistance in order not to disturb the circuit. A ammeter needs to be in series in the circuit and needs to have a small resistance. The compass is our ammeter (and it has a very small resistance!). 
 </lrndesign-sidenote>
 
-Section 27.7 introduces the case of multi-loop circuits where one needs to be more methodical. Look carefully at problem solving strategy 28.1 and the two worked out examples 28.9, 28.10. 
+Section 27.7 introduces the case of multi-loop circuits where one needs to be more methodical. Look carefully at problem solving strategy 28.1 and the two worked out examples 28.9, 28.10. The idea is to use Kirchoff's two laws (Eq 28.1 and 28.2) for the whole circuit. Kirchoff's loop law applies to any loop in the circuits. You will get multiple equations (one for each loop) allowing you to solve for multiple unknowns. 
  
  <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 We keep section 28.9 for next week while section 28.8 explains the concept of grounding. 
 </lrndesign-sidenote>
 
+[ciscode|rev=1|tool=elmsmedia|item=4874|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 ### Doing the worked out example problems. 
  
  
-Do not read example solutions in the book right away. Here is how to do example problems. 
+For the more complicated examples, do not just read the solutions in the book right away. I recommend the following procedure.  
 
 1. First, you read the example question ONLY.
 2. You take a piece of paper and try to solve it, without looking at the solution. 
