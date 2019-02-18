@@ -47,5 +47,5 @@
   * [Review material - week 8](review-material-week-8.md)
   * [Reading Guide Week 8](reading-guide-week-8.md)
   * [Problem Solving Videos Week 8](problem-solving-videos-week-8.md)
-  * Check your Understanding Week 8
+  * [Check your Understanding Week 8](check-your-understanding-week-8.md)
 
