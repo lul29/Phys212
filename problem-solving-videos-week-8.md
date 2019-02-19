@@ -5,7 +5,9 @@ Let me illustrate the material of this week in the following two problems.
 
 Bulbs A and B in the figure are identical, and both are glowing. Bulb B is removed from its socket. Does the potential difference <lrn-math>\Delta V_{12} </lrn-math> between points 1 and 2 increase, stay the same, decrease, or become zero? Explain.
 
-[ciscode|rev=1|tool=elmsmedia|item=4875|entity_type=node|render=display_mode|display_mode=image]
+[ciscode|rev=1|tool=elmsmedia|item=4875|entity_type=node|render=display_mode|display_mode=image]\
+
+[ciscode|rev=1|tool=elmsmedia|item=4889|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
 [ciscode|rev=1|tool=elmsmedia|item=4886|entity_type=node|render=display_mode|display_mode=document__pdf]
@@ -16,5 +18,8 @@ Let us calculate the rate at which each of the three batteries in the figure eit
 
 
 [ciscode|rev=1|tool=elmsmedia|item=4876|entity_type=node|render=display_mode|display_mode=image]
+
+[ciscode|rev=1|tool=elmsmedia|item=4888|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 
 [ciscode|rev=1|tool=elmsmedia|item=4887|entity_type=node|render=display_mode|display_mode=document__pdf]
