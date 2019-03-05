@@ -22,3 +22,6 @@ and the solution to this is the exponential decay with time constant
 The quantities describe in this section refers to the current, charge and voltage on the capacitor. Be careful not to apply these formulas to the entire circuit. 
 If the capacitor is in parallel with a resistor for example, the end current after a long time on the capacitor will be zero (whether charging or discharging) but there could be a non-zero current on the resistor. 
 </lrndesign-sidenote>
+
+
+Example 28.12 is important while challenge example 28.13 is more advanced than what you need for this course. 
