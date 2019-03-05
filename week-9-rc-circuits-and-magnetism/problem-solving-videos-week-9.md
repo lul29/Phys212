@@ -1,1 +1,1 @@
-## RC Capacitor
+## RC Circuit
