@@ -1,4 +1,4 @@
-### Math Review Exponentials
+### Math Review: Exponentials
 
 RC circuits are described via the exponential function <lrn-math>e^{-t/\tau} </lrn-math>. This is exponential decay as a function of time. The variable (time) is in the exponential and the physical quantity starts at some value often described as <lrn-math>A_0 </lrn-math> and decreases very quickly, but asymptotically to zero. For example here a capacitor with initial charge <lrn-math>Q_0 </lrn-math> will discharge when connected to a resistor R as 
 
@@ -24,7 +24,7 @@ You may want to review Chap 15 on oscillations. The damped oscillator had an amp
 </lrndesign-sidenote>
 
 
-### Math Review the vector cross-product. 
+### Math Review: The vector cross-product. 
 
 In the second part of this week's material, we study Biot-Savard law which involves the cross-product. 
 
@@ -42,7 +42,7 @@ When applied to torque the cross-product is
 Make sure you differentiate the dot product (whose result is a number) from the cross product which results in a vector. 
 </lrndesign-sidenote>
 
-try it out!
+try the right hand rule. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4605|entity_type=node|render=display_mode|display_mode=h5p]
 
