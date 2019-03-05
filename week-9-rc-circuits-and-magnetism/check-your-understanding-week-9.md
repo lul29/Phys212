@@ -42,11 +42,17 @@ It is very worthwhile to do a compare/contrast Biot-Savard and Coulomb laws.
 * Coulomb's law only depended on the charge. Biot-Savard depends on the charge and on the velocity. The magnetic field is zero if the electric charge is not moving. 
 * The direction is the most difficult part of the equation. The direction of Coulomb's law was radial <lrn-math> \hat r </lrn-math>. The direction of Biot-Savard law is given by the cross-product of velocity <lrn-math>\vec{v} </lrn-math> and <lrn-math> \hat r </lrn-math>. Or by the cross-product of the direction of the wire segment (in direction of current) and <lrn-math> \hat r </lrn-math>.
 
-### Direction of current. 
-The subject of magnetism include multiple _different_ right-hand rule. It will be important to _compare and contrast_ the different rules 
+### Direction of magnetic field a
+
+The subject of magnetism include multiple _different_ right-hand rule (RHR). It will be important to _compare and contrast_ the different rules as we go along. 
 
 We already have two rules under our belt
 
-* The right hand rule use in the cross-product (see review)
-* Tactics box 29.1 gives the rule to find the magnetic field around a wire carrying a current I. 
+* The right hand rule used in the cross-product (see review). I prefer to do this with my hand aligned with vector A, then reaching (closing) toward vector B (in the shortest angle). The cross-product is then in the direction of my thumb. 
+* Tactics box 29.1 gives the rule to find the magnetic field around a wire carrying a current I. In this RHR, the thumb is in the direction of the current and the B field is in the direction of the closing right hand. The B field is circular in shape. 
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Note the difference. In one rule, the thumb is the result of the RHR while in the other rule, the result direction is giving by the curling hand.  
+</lrndesign-sidenote>
+
 
