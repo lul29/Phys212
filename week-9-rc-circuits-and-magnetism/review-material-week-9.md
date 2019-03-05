@@ -27,3 +27,22 @@ You may want to review Chap 15 on oscillations. The damped oscillator had an amp
 ### Math Review the vector cross-product. 
 
 In the second part of this week's material, we study Biot-Savard law which involves the cross-product. 
+
+The first time we saw the cross-product was in Phys 211 when we introduced the notion of torque. Review section 12.10 of the Knight book on cross-product. 
+
+When applied to torque the cross-product is 
+
+ <lrn-math>\vec{\tau}=\vec{r}\times\vec{F} </lrn-math>
+ 
+ The magnitude of this product is what we have been using up to now <lrn-math>|\tau| =rF\sin\theta </lrn-math> where the angle is the angle between the two vectors. The direction is given by a new right-hand rule. The order is important for the cross product and the direction is given by the right-hand rule. There are two ways to do the right-hand rule. I prefer the second (to the right) in this image.  
+
+[ciscode|rev=1|tool=elmsmedia|item=4603|entity_type=node|render=display_mode|display_mode=image]
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Make sure you differentiate the dot product (whose result is a number) from the cross product which results in a vector. 
+</lrndesign-sidenote>
+
+try it out!
+
+[ciscode|rev=1|tool=elmsmedia|item=4605|entity_type=node|render=display_mode|display_mode=h5p]
+
