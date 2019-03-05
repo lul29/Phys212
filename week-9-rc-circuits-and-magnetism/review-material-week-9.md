@@ -24,4 +24,4 @@ You may want to review Chap 15 on oscillations. The damped oscillator had an amp
 
 ### Math Review the vector cross-product. 
 
-In the second part of this week's material, we study Biot-Savard law which inv
+In the second part of this week's material, we study Biot-Savard law which involves the cross-product. 
