@@ -15,5 +15,10 @@ and the solution to this is the exponential decay with time constant
 <lrn-math>\tau = RC </lrn-math>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-  [content here]
+ When a capacitor discharges, the charge, voltage and current all exponentially decrease. When a capacitor charges, the voltage and charge increase but the current still decreases. The end current through the capacitor of an RC circuit is zero. 
+</lrndesign-sidenote>
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+The quantities describe in this section refers to the current, charge and voltage on the capacitor. Be careful not to apply these formulas to the entire circuit. 
+If the capacitor is in parallel with a resistor for example, the end current after a long time on the capacitor will be zero (whether charging or discharging) but there could be a non-zero current on the resistor. 
 </lrndesign-sidenote>
