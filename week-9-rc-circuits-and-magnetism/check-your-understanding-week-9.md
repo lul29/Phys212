@@ -42,12 +42,11 @@ It is very worthwhile to do a compare/contrast Biot-Savard and Coulomb laws.
 * Coulomb's law only depended on the charge. Biot-Savard depends on the charge and on the velocity. The magnetic field is zero if the electric charge is not moving. 
 * The direction is the most difficult part of the equation. The direction of Coulomb's law was radial <lrn-math> \hat r </lrn-math>. The direction of Biot-Savard law is given by the cross-product of velocity <lrn-math>\vec{v} </lrn-math> and <lrn-math> \hat r </lrn-math>. Or by the cross-product of the direction of the wire segment (in direction of current) and <lrn-math> \hat r </lrn-math>.
 
-### Direction and principle of superposition
-
+### Direction of current. 
 The subject of magnetism include multiple _different_ right-hand rule. It will be important to _compare and contrast_ the different rules 
 
 We already have two rules under our belt
 
 * The right hand rule use in the cross-product (see review)
-* Tactics box 
+* Tactics box 29.1 gives the rule to find the magnetic field around a wire carrying a current I. 
 
