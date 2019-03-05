@@ -48,4 +48,6 @@
   * [Reading Guide Week 8](reading-guide-week-8.md)
   * [Problem Solving Videos Week 8](problem-solving-videos-week-8.md)
   * [Check your Understanding Week 8](check-your-understanding-week-8.md)
+* [Week 9: RC Circuits and Magnetism](week-9-rc-circuits-and-magnetism.md)
+* Review material - week 9
 
