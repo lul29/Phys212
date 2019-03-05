@@ -1,1 +1,1 @@
-## RC circuit. 
+## Biot-Savard Law.  
