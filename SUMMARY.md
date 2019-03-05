@@ -50,4 +50,7 @@
   * [Check your Understanding Week 8](check-your-understanding-week-8.md)
 * [Week 9: RC Circuits and Magnetism](week-9-rc-circuits-and-magnetism.md)
 * Review material - week 9
+* Reading Guide Week 9
+* Problem Solving Videos Week 9
+* Check your Understanding Week 9
 
