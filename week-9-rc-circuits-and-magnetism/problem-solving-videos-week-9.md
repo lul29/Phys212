@@ -1,6 +1,4 @@
-## RC Circuit
-
-
+## Cross Product Review
 
 
 

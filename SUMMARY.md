@@ -51,7 +51,7 @@
 * [Week 9: RC Circuits and Magnetism](week-9-rc-circuits-and-magnetism.md)
   * [Review material - week 9](week-9-rc-circuits-and-magnetism/review-material-week-9.md)
   * [Reading Guide RC-Circuit](week-9-rc-circuits-and-magnetism/reading-guide-week-9.md)
+  * Problem Solving Videos RC circuit
   * [Reading Guide Magnetism](week-9-rc-circuits-and-magnetism/check-your-understanding-week-9.md)
   * [Problem Solving Videos Week 9](week-9-rc-circuits-and-magnetism/problem-solving-videos-week-9.md)
-
 

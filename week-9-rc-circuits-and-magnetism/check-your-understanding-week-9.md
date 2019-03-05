@@ -44,3 +44,10 @@ It is very worthwhile to do a compare/contrast Biot-Savard and Coulomb laws.
 
 ### Direction and principle of superposition
 
+The subject of magnetism include multiple _different_ right-hand rule. It will be important to _compare and contrast_ the different rules 
+
+We already have two rules under our belt
+
+* The right hand rule use in the cross-product (see review)
+* Tactics box 
+

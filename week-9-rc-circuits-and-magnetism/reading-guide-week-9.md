@@ -26,7 +26,7 @@ If the capacitor is in parallel with a resistor for example, the end current aft
 
 Example 28.12 is important in this section while challenge example 28.13 is more advanced than what you need for this course. 
 
-## Check your understanding RC Circuits. 
+## Check your understanding:  RC Circuits. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4896|entity_type=node|render=display_mode|display_mode=h5p]
 [ciscode|rev=1|tool=elmsmedia|item=4897|entity_type=node|render=display_mode|display_mode=h5p]
