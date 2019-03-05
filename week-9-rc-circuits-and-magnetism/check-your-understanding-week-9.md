@@ -52,7 +52,7 @@ We already have two rules under our belt
 * Tactics box 29.1 gives the rule to find the magnetic field around a wire carrying a current I. In this RHR, the thumb is in the direction of the current and the B field is in the direction of the closing right hand. The B field is circular in shape. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Note the difference. In one rule, the thumb is the result of the RHR while in the other rule, the result direction is giving by the curling hand.  
+Note the difference. In one rule, the thumb is the result of the RHR while in the other rule, the resulting direction is given by the curling hand.  
 </lrndesign-sidenote>
 
 
