@@ -46,3 +46,4 @@ try it out!
 
 [ciscode|rev=1|tool=elmsmedia|item=4605|entity_type=node|render=display_mode|display_mode=h5p]
 
+There is also a way to do the cross-product using component notation and I will show this in one of the problem solving video. 
