@@ -11,10 +11,12 @@ and
 
 
 
-
+[ciscode|rev=1|tool=elmsmedia|item=4906|entity_type=node|render=display_mode|display_mode=document__pdf]
 
 ## Biot Savard Law
 
 Find an expression for the magnetic field strength at the center (point P) of the circular arc in the figure below.
 
 [ciscode|rev=1|tool=elmsmedia|item=4904|entity_type=node|render=display_mode|display_mode=image]
+
+[ciscode|rev=1|tool=elmsmedia|item=4907|entity_type=node|render=display_mode|display_mode=document__pdf]
