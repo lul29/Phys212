@@ -10,7 +10,7 @@ This chapter starts with an introduction to magnetism from bar magnets to wire w
 
 It is not easy to explain from first principles where the magnetism of natural bar magnets comes from. Historically, we really started to have a quantitative understanding of magnetism when it was discovered that wires with current in them produce magnetic fields. 
 
-Fundamentally, this is because moving electric charges produce magnetic fields. So just as we have Coulomb's law for the electric field created by an electric charge, we now will have a new law, called Biot-Savard law that tells us the magnetic field created by a moving electric charge. 
+Fundamentally, this is because moving electric charges produce magnetic fields. So just as we have Coulomb's law for the electric field created by an electric charge, we now will have a new law, called the Biot-Savard law, that tells us the magnetic field created by a moving electric charge. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
 The Biot-Savard law can be written for point charge or for an electric current. There is a direct relation between the two. 
@@ -34,12 +34,12 @@ while the magnetic field produced by a very short segment of wire with current I
 <lrn-math>
 \vec{B}_{current\;segment}=\frac{\mu_0}{4\pi}\frac{I\Delta\vec{s}\cross\hat r}{r^2} </lrn-math>
 
-It is very worthwhile to do a compare/contrast Biot-Savard and Coulomb laws. 
+It is very worthwhile to do a compare/contrast of Biot-Savard and Coulomb laws. 
 
 * The SI unit of the magnetic field (denoted B) is the Tesla. 1 T is 1 Newton per ampere per meter. This is better than the electric field who was never given its own unit. Remember that we used alternatively Newton over Coulomb (N/C) or Volt over meter (V/m) for the unit of the E field.  
-* We have new fundamental constant of nature with magnetism called the permeability constant <lrn-math>\mu_0 = 4\pi \times 10^{-7}\; T\;m/A </lrn-math>. Looks very similar, in name and notation, to the permittivity constant of electricity ( <lrn-math>\epsilon_0 </lrn-math>) but it appears in the numerator not the denominator.
+* We have a new fundamental constant of nature with magnetism called the permeability constant <lrn-math>\mu_0 = 4\pi \times 10^{-7}\; T\;m/A </lrn-math>. Looks very similar, in name and notation, to the permittivity constant of electricity ( <lrn-math>\epsilon_0 </lrn-math>) but it appears in the numerator not the denominator.
 * Both laws depends on the inverse squared of the distance, <lrn-math> 1/r^2 </lrn-math>.
-* Coulomb's law only depended on the charge. Biot-Savard depends on the charge and on the velocity. The magnetic field is zero if the electric charge is not moving. 
+* Coulomb's law only depends on the charge. Biot-Savard depends on the charge and on the velocity. The magnetic field is zero if the electric charge is not moving. 
 * The direction is the most difficult part of the equation. The direction of Coulomb's law was radial <lrn-math> \hat r </lrn-math>. The direction of Biot-Savard law is given by the cross-product of velocity <lrn-math>\vec{v} </lrn-math> and <lrn-math> \hat r </lrn-math>. Or by the cross-product of the direction of the wire segment (in direction of current) and <lrn-math> \hat r </lrn-math>.
 
 ### Direction of magnetic field a
