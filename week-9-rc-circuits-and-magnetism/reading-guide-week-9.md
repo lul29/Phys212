@@ -19,7 +19,7 @@ and the solution to this is the exponential decay with time constant
 </lrndesign-sidenote>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The quantities describe in this section refer to the current, charge and voltage on the capacitor. Be careful not to apply these formulas to the entire circuit. 
+The quantities described in this section refer to the current, charge and voltage on the capacitor. Be careful not to apply these formulas to the entire circuit. 
 
 If the capacitor is in parallel with a resistor for example, the end current after a long time on the capacitor will be zero (whether charging or discharging) but there could be a non-zero current on the parallel resistor. 
 </lrndesign-sidenote>
