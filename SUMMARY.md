@@ -55,4 +55,5 @@
   * [Reading Guide Magnetism](week-9-rc-circuits-and-magnetism/check-your-understanding-week-9.md)
   * [Check your Understanding: Magnetism](check-your-understanding-magnetism.md)
   * [Problem Solving Videos Week 9](week-9-rc-circuits-and-magnetism/problem-solving-videos-week-9.md)
+* [Week 10: Ampère's Law and the Magnetic Force](week-10-amperes-law-and-the-magnetic-force.md)
 
