@@ -58,4 +58,5 @@
 * [Week 10: Ampère's Law and the Magnetic Force](week-10-amperes-law-and-the-magnetic-force.md)
   * [Review material - week 10](review-material-week-10.md)
   * [Reading Guide. Ampère's Law](reading-guide-amperes-law.md)
+  * [Reading Guide: Magnetic force on a Moving Charge. ](reading-guide-magnetic-force-on-a-moving-charge.md)
 
