@@ -18,7 +18,4 @@ b) Find the magnetic field strength at distance d above or below the current she
 
 A particle of charge q and mass m moves in the uniform fields <lrn-math>\vec{E} = E_0\hat k </lrn-math> and <lrn-math>\vec{B}=B_0\hat k </lrn-math>. At t=0, the particle has velocity <lrn-math>\vec{v}=v_0\hat i. What is the particle’s speed at a later time t?
 
-
-
-
 [ciscode|rev=1|tool=elmsmedia|item=4915|entity_type=node|render=display_mode|display_mode=document__pdf]
