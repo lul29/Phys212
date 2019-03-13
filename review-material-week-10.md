@@ -1,6 +1,12 @@
 ## Math Review: The Line Integral. 
 
-Line integral were first introduced in Chap 9 of your book when we discuss work. By then we had that the work done by a force was
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+<span slot="message">Look back at Sec 9.3</span>
+</stop-note>
+
+Line integral were first introduced in Chap 9 of your book when we discussed work although we did not use this terminology and we did not do complicated cases. We now expect more calculus knowledge so let us review quickly the idea of the line integral in the context of work before we move on to magnetic fields. 
+
+In Phys 211, we saw that the work done by a force was
 
 <lrn-math> W = =\int_C \vec{F}\cdot d\vec{l} </lrn-math>
 
@@ -24,3 +30,9 @@ If the integrand is constant (say equal to F), then you can take it out of the l
 
 
 ## Physics Review: Circular motion. 
+
+The motion of an electric charge in an uniform magnetic field is uniform circular motion. 
+
+<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
+<span slot="message"></span>
+</stop-note>
