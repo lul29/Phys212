@@ -59,4 +59,5 @@
   * [Review material - week 10](review-material-week-10.md)
   * [Reading Guide. Ampère's Law](reading-guide-amperes-law.md)
   * [Reading Guide: Magnetic force on a Moving Charge. ](reading-guide-magnetic-force-on-a-moving-charge.md)
+* [Problem Solving Videos Week 10](problem-solving-videos-week-10.md)
 
