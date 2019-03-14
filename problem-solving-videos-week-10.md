@@ -12,10 +12,14 @@ a) What is the shape of the magnetic field? To answer this question, you may fin
 
 b) Find the magnetic field strength at distance d above or below the current sheet.
 
+[ciscode|rev=1|tool=elmsmedia|item=4921|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 [ciscode|rev=1|tool=elmsmedia|item=4916|entity_type=node|render=display_mode|display_mode=document__pdf]
 
 ## Problem Solving Video 
 
 A particle of charge q and mass m moves in the uniform fields <lrn-math>\vec{E} = E_0\hat k </lrn-math> and <lrn-math>\vec{B}=B_0\hat k </lrn-math>. At t=0, the particle has velocity <lrn-math>\vec{v}=v_0\hat i. What is the particle’s speed at a later time t?
+
+[ciscode|rev=1|tool=elmsmedia|item=4922|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 [ciscode|rev=1|tool=elmsmedia|item=4915|entity_type=node|render=display_mode|display_mode=document__pdf]
