@@ -57,7 +57,7 @@
   * [Problem Solving Videos Week 9](week-9-rc-circuits-and-magnetism/problem-solving-videos-week-9.md)
 * [Week 10: Ampère's Law and the Magnetic Force](week-10-amperes-law-and-the-magnetic-force.md)
   * [Review material - week 10](review-material-week-10.md)
-  * [Reading Guide. Ampère's Law](reading-guide-amperes-law.md)
+  * [Reading Guide. Amp\ère's Law](reading-guide-amperes-law.md)
   * [Reading Guide: Magnetic force on a Moving Charge. ](reading-guide-magnetic-force-on-a-moving-charge.md)
   * [Problem Solving Videos Week 10](problem-solving-videos-week-10.md)
   * [Check your Understanding Week 10](check-your-understanding-week-10.md)
