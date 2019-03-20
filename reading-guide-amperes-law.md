@@ -26,7 +26,7 @@ Look carefully at tactics box 29.3. All line integrals in this course will be ei
 
 Ampere's law is one of the Maxwell equation
 
-<lrn-math>\oint \vec{B}\cdot d\vec{l} = \mu_0 I_{through} <lrn-math>
+<lrn-math>\oint \vec{B}\cdot d\vec{l} = \mu_0 I_{through} </lrn-math>
 
 Some notes
 * The "amperian" path is an arbitrary closed curve. You can choose it however you want.
