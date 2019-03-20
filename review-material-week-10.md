@@ -16,7 +16,8 @@ where C is the one dimensional path in space over which the force is applied.
 
 The trick to evaluate such integrals is as follows 
 
-* Evaluate the dot product <lrn-math>\vec{F}\cdot d\vec{l} at each point along the path. This results in a scalar function which varies along the path. 	
+* Evaluate the dot product <lrn-math>\vec{F}\cdot d\vec{l}</lrn-math> at each point along the path. This results in a scalar function which varies along the path. 
+	
 * Express the resulting scalar as a function f(l)  dl with some limit of integration <lrn-math>l_1,\;l_2 </lrn-math> that covers the whole path from A to B. This is the crucial step. 
 * Once written as a 1D definite integral, evaluate it.
 
