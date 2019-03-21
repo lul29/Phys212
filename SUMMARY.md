@@ -67,4 +67,5 @@
 * [Reading Guide - End of Magnetic Forces](reading-guide-end-of-magnetic-forces.md)
 * [Reading Guide: Induction](reading-guide-induction.md)
 * [Problem Solving Videos Week 11](problem-solving-videos-week-11.md)
+* [Check your Understanding Week 11](check-your-understanding-week-11.md)
 
