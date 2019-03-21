@@ -12,5 +12,18 @@ You can think of this moving conductor has being a battery with an induced EMF
 
 derived by using the magnetic force on moving charges and integrating the resulting E field to find the voltage. (see review section). 
 
+If you close the loop, you would get not just an induced EMF, you would also get an induced current. 
 
-You can them 
+Example 30.1-30.3 are all very interesting to work through. 
+
+### Eddy current. 
+
+We do not have the tools to analyse this quantitatively but the idea...
+
+superconductor
+
+[ciscode|rev=1|tool=elmsmedia|item=4931|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+
+
+### Magnetic Flux. 
