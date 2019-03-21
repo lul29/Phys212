@@ -1,14 +1,10 @@
-<stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
-<span slot="message">30.1-30.3</span>
-</stop-note>
-
 We have seen in the last two weeks that moving electric charges create magnetic fields. This is Biot-Savard law or Ampere's law. 
 
 Since electric charges always produce electric field, one can think of Ampere's law as saying that **a changing electric field creates a magnetic field**. If the charges don't move, the electric field pattern in space is static, but if the charge move the electric field changes and that changes is what causes
 
 It turns out the converse is true, a changing magnetic field B creates an electric field E. 
 
-
+[ciscode|rev=1|tool=elmsmedia|item=4929|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 Again let us repeat the main message about magnetism that you should remember.
 
