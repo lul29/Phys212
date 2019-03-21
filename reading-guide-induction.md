@@ -1,3 +1,9 @@
+## The Big Idea. 
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+ Before we go in detailed calculation, let me give the big ideas behind electromagnetic induction as always as the opportunity to right away the very important applications using a PHET
+</lrndesign-sidenote>
+
 We have seen in the last two weeks that moving electric charges create magnetic fields. This is Biot-Savard law or Ampere's law. 
 
 Since electric charges always produce electric field, one can think of Ampere's law as saying that **a changing electric field creates a magnetic field**. If the charges don't move, the electric field pattern in space is static, but if the charge move the electric field changes and that changes is what causes
