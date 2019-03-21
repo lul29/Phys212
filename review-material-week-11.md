@@ -1,4 +1,4 @@
-Torque
+Torque magnetic moment
 
 
 V -> E
