@@ -1,7 +1,7 @@
 ## The Big Idea. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
- Before we go in detailed calculation, let me give the big ideas behind electromagnetic induction as always as the opportunity to right away the very important applications using a PHET
+ Before we go in detailed calculation, let me give the big ideas behind electromagnetic induction together with the opportunity to right away explore the very important applications of induction using a PHET simulation. 
 </lrndesign-sidenote>
 
 We have seen in the last two weeks that moving electric charges create magnetic fields. This is Biot-Savard law or Ampere's law. 
