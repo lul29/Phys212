@@ -6,7 +6,7 @@ It turns out the converse is true, a changing magnetic field B creates an electr
 
 [ciscode|rev=1|tool=elmsmedia|item=4929|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-Again let us repeat the main message about magnetism that you should remember.
+Again let us repeat the main message that you should remember.
 
 **A changing electric field E creates a magnetic field B**
 
@@ -14,7 +14,7 @@ and
 
 **A changing magnetic field B creates an electric field E**
 
-The first is how a current of electrons can create an electromagnet. The latter is the key to understand the electric generator and the transformer as we will see now. 
+The first is how a current of electrons can create an electromagnet. The latter is the key to understand the electric generator and the transformer as we will see later. 
 
 Download the following simulation directly from the <a href="https://phet.colorado.edu/en/simulation/faraday" target="_blank">Phet website</a>
 
