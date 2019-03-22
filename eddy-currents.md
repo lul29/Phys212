@@ -18,12 +18,10 @@ Example 30.1-30.3 are all important to work through.
 
 ### Eddy current. 
 
-We do not have the tools to analyze this quantitatively but the idea
-
-superconductor
+We do not have the tools to analyze this quantitatively but the idea is you can create "whirlpools" of current in sheet of metal. This current loops create their own magnetic forces. I illustrate this effect here with superconductors. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4931|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
-
 ### Magnetic Flux. 
+The last part of this week is on magnetic flux. This is very analogous to the notion of electric flux. Next week, the idea of magnetic flux will allow us to study Faraday's law. 
