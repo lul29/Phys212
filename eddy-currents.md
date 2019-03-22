@@ -4,7 +4,7 @@
 
 We start our study of induction by looking at a situation where the magnetic field is not even changing. 
 
-Read particularly carefully section 30.2 which talks about motional EMF. For the moment the B Field is not changing, the idea is that a moving conductor inside of B field will develop a voltage difference because the charges inside the conductor will feel a force and move. 
+Read particularly carefully section 30.2 which talks about motional EMF. For the moment the B Field is not changing, the idea is that a conductor moving inside a B field will develop a voltage difference because the charges inside the conductor will feel a force and move. 
 
 You can think of this moving conductor has being a battery with an induced EMF 
 
@@ -14,11 +14,11 @@ derived by using the magnetic force on moving charges and integrating the result
 
 If you close the loop, you would get not just an induced EMF, you would also get an induced current. 
 
-Example 30.1-30.3 are all very interesting to work through. 
+Example 30.1-30.3 are all important to work through. 
 
 ### Eddy current. 
 
-We do not have the tools to analyse this quantitatively but the idea...
+We do not have the tools to analyze this quantitatively but the idea
 
 superconductor
 
