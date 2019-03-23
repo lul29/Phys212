@@ -1,14 +1,14 @@
-## The Big Idea. 
+## The Big Ideas Behind Electromagnetic Induction
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
- Before we go in detailed calculations, let me give the big ideas behind electromagnetic induction together with the opportunity to right away explore the very important applications of induction using a PHET simulation. 
+ We start a new subject (chap 30) and before we go into detailed calculations, let me give you the big ideas behind electromagnetic induction together with the opportunity to right away explore the very important applications of induction using a PHET simulation.
 </lrndesign-sidenote>
 
-We have seen in the last two weeks that moving electric charges create magnetic fields. This is Biot-Savard law or Ampere's law. 
+We have seen in the last two weeks that moving electric charges create magnetic fields. This is Biot-Savard law or Ampere's law.
 
-Since electric charges always produce electric fields, one can think of Ampere's law as saying that **a changing electric field creates a magnetic field**. If the charges don't move, the electric field pattern in space is static, but if the charges move the electric field changes and that changes is what causes a magnetic field. 
+Since electric charges always produce electric fields, one can think of Ampere's law as saying that **a changing electric field creates a magnetic field**. If the charges don't move, the electric field pattern in space is static, but if the charges move the electric field changes and that change is what causes a magnetic field.
 
-It turns out the converse is true, a changing magnetic field B creates an electric field E. 
+It turns out the converse is true, a changing magnetic field B creates an electric field E.
 
 [ciscode|rev=1|tool=elmsmedia|item=4929|entity_type=node|render=display_mode|display_mode=mediavideo]
 
@@ -20,7 +20,7 @@ and
 
 **A changing magnetic field B creates an electric field E**
 
-The first is how a current of electrons can create an electromagnet. The latter is the key to understand the electric generator and the transformer as we will see later. 
+The first is how a current of electrons can create an electromagnet. The latter is the key to understand the electric generator and the transformer as we will see later.
 
 Download the following simulation directly from the <a href="https://phet.colorado.edu/en/simulation/faraday" target="_blank">Phet website</a>
 
