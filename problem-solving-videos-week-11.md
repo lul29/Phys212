@@ -1,8 +1,14 @@
+videos to appear soon
+
+
+
+
 ## Magnetic Forces and Torques
 
+The 10-turn loop of wire shown in the figure below lies in a horizontal plane, parallel to a uniform horizontal magnetic field, and carries a 2.0 A current. The loop is free to rotate about a nonmagnetic axle through the center. A 50 g mass hangs from one edge of the loop. What magnetic field strength will prevent the loop from rotating about the axle?
 
 
-To appear
+[ciscode|rev=1|tool=elmsmedia|item=4933|entity_type=node|render=display_mode|display_mode=image]
 
 
 
