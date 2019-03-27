@@ -69,4 +69,6 @@
   * [Problem Solving Videos Week 11](problem-solving-videos-week-11.md)
   * [Check your Understanding Week 11](check-your-understanding-week-11.md)
 * [End of Book](end-of-book.md)
+* [Week 12:  Electromagnetic Induction and LR/LC circuits.](week-12-electromagnetic-induction-and-lr-lc-circuits.md)
+* [Review Material - Week 12](review-material-week-12.md)
 
