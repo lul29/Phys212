@@ -12,6 +12,8 @@ There are three components to understand
 * The magnitude of the induced EMF. This is Faraday's law and there we can be quantitative using magnetic flux as defined last week. 
 * Then finally we can go more abstract and write Faraday's law in terms of electric field and it then looks very similar to Ampere's law and it can be used in similar ways. 
 
-In the following two videos I discussed induced EMF
+In the following two videos I discussed induced EMF with emphasis on understanding the direction of the induced current. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4944|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+[ciscode|rev=1|tool=elmsmedia|item=4945|entity_type=node|render=display_mode|display_mode=mediavideo]
