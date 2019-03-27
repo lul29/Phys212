@@ -72,5 +72,5 @@
   * [Review Material - Week 12](review-material-week-12.md)
   * [Faraday's Law](faradays-law.md)
 * [End of Book](end-of-book.md)
-
+* Applications
 
