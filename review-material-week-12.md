@@ -42,7 +42,7 @@ In the second part of this week we will introduce the "magnetic analog" of the c
 The final equations looks the same but the physics and the reasonings behind what is happening is very different.  
 </lrndesign-sidenote>
 
-## Simple Harmonic Oscillator. 
+## Review Simple Harmonic Oscillator. 
 
 We will see the LC circuit (inductor + capacitor with no battery or resistance). This will turn out to oscillate back and forth like a mass on a spring. 
 
@@ -54,7 +54,7 @@ In this course we will, by convention, always use cosine for simple harmonic mot
 
 For example, the charge on a capacitor in a LC circuit will oscillate
 
-<lrn-math>Q(t) = \cos\left(\phi\right) </lrn-math> 
+<lrn-math>Q(t) = Q_0\cos\left(\phi\right) </lrn-math> 
 
 The phase depends on time and can be written as 
 
@@ -67,3 +67,7 @@ where </lrn-math> \omega = 2\pi f = 2\pi/T</lrn-math> is the angular frequency i
 The SHM is the x projection of the counter-clockwise circular motion. Remember these kind of questions from P211?
 
 [ciscode|rev=1|tool=elmsmedia|item=4370|entity_type=node|render=display_mode|display_mode=h5p]
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+A simple harmonic oscillator is a special kind of oscillator where the amplitude of oscillation, the frequency and the phase constant are all independent. Doubling the amplitude of oscillation (say doubling initial capacitor charges), DOES NOT affect the angular frequency or the period of the oscillations. 
+</lrndesign-sidenote>
