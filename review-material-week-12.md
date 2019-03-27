@@ -1,5 +1,26 @@
 Faraday's law is fairly all new but the second part of this week has many similarities with previous work we have seen so let me spelled those out. 
 
+## Review of Ampere's law. 
+
+Faraday's law when written in terms of electric field looks very similar to Ampere's law in the sense that it involves an closed contour integral
+
+Ampere's law
+
+<lrn-math> \oint \vec{B}\cdot d\vec{s} = \mu_0 I_{trough} </lrn-math>
+
+Faraday's Law (as we will see) 
+
+<lrn-math> \oint \vec{E}\cdot d\vec{s} = -\frac{d\Phi_m}{dt} </lrn-math>
+
+We will look at where this comes from but here I wanted to review how "we deal" with the integrals on the left. 
+
+In almost all cases, the idea is to choose a path where E is constant along parts of the paths (or the whole thing) and then we can take it out of the integral and the integral becomes the length of that segment. 
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Look back at how Ampere's law is used for a circular path (example 28.8) or for a square path (text surrounding Fig 29.31, finding the B field for a solenoid). 
+</lrndesign-sidenote>
+
+
 ## Review of capacitor. 
 
 Earlier in the class, we defined the capacitance of an object as 
