@@ -71,6 +71,6 @@
 * [Week 12:  Electromagnetic Induction and LR/LC circuits.](week-12-electromagnetic-induction-and-lr-lc-circuits.md)
   * [Review Material - Week 12](review-material-week-12.md)
   * [Faraday's Law](faradays-law.md)
+  * [Inductors](applications.md)
 * [End of Book](end-of-book.md)
-* Applications
 

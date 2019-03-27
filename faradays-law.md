@@ -1,7 +1,7 @@
 ## Faraday's Law.
 
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
-<span slot="message">30.4-30.6</span>
+<span slot="message">30.4-30.7</span>
 </stop-note>
 
 Before we move on to applications of electromagnetic induction, we need to understand more the basic idea we first heard about last week about induction. 
@@ -19,7 +19,7 @@ In the following two videos I discussed induced EMF with emphasis on understandi
 [ciscode|rev=1|tool=elmsmedia|item=4945|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
-### Application the transformer
+### Application, the transformer
 
 
 [ciscode|rev=1|tool=elmsmedia|item=4946|entity_type=node|render=display_mode|display_mode=mediavideo]
