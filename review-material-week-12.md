@@ -36,12 +36,12 @@ To repeat, the current in a RC circuits always go like
 
 <lrn-math> I = I_0 e^{-t\tau} </lrn-math> 
 
-In the second part of this week we will introduce the "magnetic analog" of the capacitor, **the inductor**. We will discuss inductance and the the LR circuits. The LR circuits will have similar exponential decay of the current. 
+In the second part of this week we will introduce the "magnetic analog" of the capacitor, **the inductor** denoted L. We will discuss inductance and the the LR circuit. This circuit will have similar exponential decay of the current. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The final equations looks the same but the physics and the reasoning is very different.  
+The final equations looks the same but the physics and the reasonings behind what is happening is very different.  
 </lrndesign-sidenote>
 
 ## Simple Harmonic Oscillator. 
 
-
+We will see the LC circuit (inductor + capacitor with no battery or resistance). This will turn out to oscillate back and forth like a mass on a spring. 
