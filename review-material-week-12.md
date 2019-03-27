@@ -64,6 +64,6 @@ where </lrn-math> \omega = 2\pi f = 2\pi/T</lrn-math> is the angular frequency i
 
 [ciscode|rev=1|tool=elmsmedia|item=4369|entity_type=node|render=display_mode|display_mode=image]
 
-The SHM is the x projection of the counter-clockwise circular motion
+The SHM is the x projection of the counter-clockwise circular motion. Remember these kind of questions from P211?
 
 [ciscode|rev=1|tool=elmsmedia|item=4370|entity_type=node|render=display_mode|display_mode=h5p]
