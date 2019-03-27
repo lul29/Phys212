@@ -45,3 +45,25 @@ The final equations looks the same but the physics and the reasonings behind wha
 ## Simple Harmonic Oscillator. 
 
 We will see the LC circuit (inductor + capacitor with no battery or resistance). This will turn out to oscillate back and forth like a mass on a spring. 
+
+In a simple harmonic motion, the phase refers to the quantity inside the cosine.
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+In this course we will, by convention, always use cosine for simple harmonic motion even though you could use sine. 
+</lrndesign-sidenote>
+
+For example, the charge on a capacitor in a LC circuit will oscillate
+
+<lrn-math>Q(t) = \cos\left(\phi\right) </lrn-math> 
+
+The phase depends on time and can be written as 
+
+<lrn-math> \phi = \omega t+\phi_0 </lrn-math>.
+
+where </lrn-math> \omega = 2\pi f = 2\pi/T</lrn-math> is the angular frequency in rad/s. <lrn-math>\phi_0 </lrn-math> is the initial phase constant. The phase tells you where you are in the cycle the cosine. It is often easier to visualize the phase as an angular position on a fictitious circle. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4369|entity_type=node|render=display_mode|display_mode=image]
+
+The SHM is the x projection of the counter-clockwise circular motion
+
+[ciscode|rev=1|tool=elmsmedia|item=4370|entity_type=node|render=display_mode|display_mode=h5p]
