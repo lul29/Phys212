@@ -8,4 +8,7 @@ Find the induced EMF, the induced electric field and induced current in the loop
 
 ## Inductor circuits
 
-A 3.6 mH inductor with negligible resistance has a 1.0 A current through it. The current starts to increase at t=0 s, creating a constant 5.0 mV voltage across the inductor. How much charge passes through the inductor between t=0 s and t=5.0 s?
+An LC circuit is built with a 20 mH inductor and an 8.0 pF capacitor. The capacitor voltage has its maximum value of 25 V at t=0 s.
+
+a) How long is it until the capacitor is first fully discharged?
+b) What is the inductor current at that time?
