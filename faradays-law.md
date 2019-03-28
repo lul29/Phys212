@@ -20,9 +20,12 @@ In the following two videos I discussed induced EMF with emphasis on understandi
 
 ## Reading Guide
 
+Lenz's law takes practice. Make sure you differentiate the induced B field from the source B field. Fig 30.21 gives you all 6 possible configurations. 
 
+Examples 30.6-30.10 are all super important. 
 
-
+* We will come back to Maxwell's E&M wave discussion but you can have quick peak at the end of section 30.6. 
+* for section 30.7, you should understand how a generator work but the equations are not important (and neither is example 30.11). Same with transformer or metal detectors. 
 
 ### Application, the transformer
 
