@@ -6,7 +6,7 @@
 
 [ciscode|rev=1|tool=elmsmedia|item=4947|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-note, it just a wire. 
+Faradays law apply to a solenoid shows that you will induce an  
 
 
 ## Reading Guide
