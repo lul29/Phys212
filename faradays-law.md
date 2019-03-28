@@ -25,7 +25,7 @@ Lenz's law takes practice. Make sure you differentiate the induced B field from 
 Examples 30.6-30.10 are all super important. 
 
 * We will come back to Maxwell's E&M wave discussion but you can have quick peak at the end of section 30.6. 
-* for section 30.7, you should understand how a generator work but the equations are not important (and neither is example 30.11). Same with transformer or metal detectors. 
+* for section 30.7, you should understand how a generator work but the equations are not important (and neither is example 30.11). Same with the application to metal detectors. 
 
 ### Application, the transformer
 
