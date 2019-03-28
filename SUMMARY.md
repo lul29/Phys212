@@ -72,5 +72,6 @@
   * [Review Material - Week 12](review-material-week-12.md)
   * [Faraday's Law](faradays-law.md)
   * [Inductors](applications.md)
+  * [Problem Solving Videos Week 12](problem-solving-videos-week-12.md)
 * [End of Book](end-of-book.md)
 
