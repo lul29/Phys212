@@ -73,5 +73,6 @@
   * [Faraday's Law](faradays-law.md)
   * [Inductors](applications.md)
   * [Problem Solving Videos Week 12](problem-solving-videos-week-12.md)
+  * [Check your Understanding Week 12](check-your-understanding-week-12.md)
 * [End of Book](end-of-book.md)
 
