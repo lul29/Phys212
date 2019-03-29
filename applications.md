@@ -20,8 +20,6 @@ In ideal inductor is just ultimately a wire which, ideally, would have zero resi
 In order to get large inductance with solenoid, one must have very very long wires and the resistance often becomes non-negligible. 
 </lrndesign-sidenote>
 
-
-
 ## Reading Guide
 
 Look at the review material about oscillator and RC circuit. The LC circuit behaves like a simple harmonic oscillator while the LR circuit is more similar to the RC (exponential decay of current). 
