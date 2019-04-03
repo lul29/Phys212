@@ -76,6 +76,7 @@
   * [Check your Understanding Week 12](check-your-understanding-week-12.md)
 * [Week 13: AC Circuits](week-13-ac-circuits.md)
   * [Review Material - Week 13](review-material-week-13.md)
-  * Phasors
+  * [Phasors](phasors.md)
+  * [RLC Circuit](rlc-circtui.md)
 * [End of Book](end-of-book.md)
 
