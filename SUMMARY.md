@@ -75,4 +75,5 @@
   * [Problem Solving Videos Week 12](problem-solving-videos-week-12.md)
   * [Check your Understanding Week 12](check-your-understanding-week-12.md)
 * [End of Book](end-of-book.md)
+* [Week 13: AC Circuits](week-13-ac-circuits.md)
 
