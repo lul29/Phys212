@@ -36,7 +36,9 @@ Using Pythagoras and the known relationships between capacitive/inductive reacta
  
  [ciscode|rev=1|tool=elmsmedia|item=4974|entity_type=node|render=display_mode|display_mode=image]
  
-The main physical thing to remember from this analysis is that
+## Resonance
+
+One can see that the impedance of an RLC circuit is minimize when the phasor for inductor and capacitor exactly cancel. This is call resonance and the phase angle is zero. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4969|entity_type=node|render=display_mode|display_mode=mediavideo]
 
