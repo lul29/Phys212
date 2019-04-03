@@ -1,5 +1,5 @@
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
-<span slot="message">32.5-32.6</span>
+<span slot="message">32.5</span>
 </stop-note>
 
 The RLC circuit puts everything together, the phasor of the RLC circuit will always look something like

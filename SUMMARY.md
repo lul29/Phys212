@@ -78,5 +78,6 @@
   * [Review Material - Week 13](review-material-week-13.md)
   * [Phasors, Reactance](phasors.md)
   * [RLC Circuit](rlc-circtui.md)
+  * [Power](power.md)
 * [End of Book](end-of-book.md)
 
