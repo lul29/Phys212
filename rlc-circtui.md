@@ -28,13 +28,15 @@ Whats the point of all this? Two things, what we are interested is to see the la
 
 Using Pythagoras and the known relationships between capacitive/inductive reactances, one arrives at
 
- <lrn-math> I =\frac{\mathca{E}_0 }{Z} </lrn-math>
+ <lrn-math> I =\frac{\mathcal{E}_0 }{Z} </lrn-math>
  
  with the impedance of the RLC circuit given by
  
  <lrn-math>Z=\sqrt{R^2+(X_L-X_C)^2} </lrn-math>
  
  [ciscode|rev=1|tool=elmsmedia|item=4974|entity_type=node|render=display_mode|display_mode=image]
+ 
+The main physical thing to remember from this analysis is that
 
 [ciscode|rev=1|tool=elmsmedia|item=4969|entity_type=node|render=display_mode|display_mode=mediavideo]
 
