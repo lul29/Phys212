@@ -5,3 +5,5 @@ Here our formula sheet on AC circuits (top right corner is for DC RL and LC with
 [ciscode|rev=1|tool=elmsmedia|item=4977|entity_type=node|render=display_mode|display_mode=image]
 
 Let us practice what we have learned with a few more examples. 
+
+## Problem Solving. 
