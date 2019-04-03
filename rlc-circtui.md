@@ -33,6 +33,8 @@ Using Pythagoras and the known relationships between capacitive/inductive reacta
  with the impedance of the RLC circuit given by
  
  <lrn-math>Z=\sqrt{R^2+(X_L-X_C)^2} </lrn-math>
+ 
+ [ciscode|rev=1|tool=elmsmedia|item=4974|entity_type=node|render=display_mode|display_mode=image]
 
 [ciscode|rev=1|tool=elmsmedia|item=4969|entity_type=node|render=display_mode|display_mode=mediavideo]
 
