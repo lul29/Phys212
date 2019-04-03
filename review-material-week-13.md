@@ -1,1 +1,3 @@
-Oscillation. 
+Oscillation, simple harmonic oscillator
+
+ 
