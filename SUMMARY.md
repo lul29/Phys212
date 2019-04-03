@@ -79,5 +79,6 @@
   * [Phasors, Reactance](phasors.md)
   * [RLC Circuit](rlc-circtui.md)
   * [Power](power.md)
+  * [Problem Solving Videos AC Circuits](problem-solving-videos-ac-circuits.md)
 * [End of Book](end-of-book.md)
 

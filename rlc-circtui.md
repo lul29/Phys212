@@ -1,3 +1,5 @@
+## The RLC Circuit
+
 <stop-note title="Read Knight 4ed" icon="stopnoteicons:book-icon">
 <span slot="message">32.5</span>
 </stop-note>
