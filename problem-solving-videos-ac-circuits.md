@@ -1,6 +1,6 @@
-I know that it is very confusing this subject on first read. The basic principles are not that bad but the subject gets very equation busy very quickly. 
+I know that this subject is confusing on first read with many equations. The basic principles are not that bad but the subject gets very equation busy very quickly. 
 
-Here our formula sheet on AC circuits (top right corner is for DC RL and LC without a source). 
+Here is our formula sheet on AC circuits (top right corner of this image is for DC RL and LC without a source). 
 
 [ciscode|rev=1|tool=elmsmedia|item=4977|entity_type=node|render=display_mode|display_mode=image]
 
