@@ -47,6 +47,11 @@ Using Pythagoras and the known relationships between capacitive/inductive reacta
  
  [ciscode|rev=1|tool=elmsmedia|item=4974|entity_type=node|render=display_mode|display_mode=image]
  
+ and the phase is
+ 
+ <lrn-math>tan \phi = \frac{X_L -X_C}{R} </lrn-math>
+ 
+ 
 ## Resonance
 
 One can see that the impedance of an RLC circuit is minimized when the phasor for the inductor and capacitor exactly cancel. This is called resonance and the phase angle is zero, source emf and current are in phase. 
