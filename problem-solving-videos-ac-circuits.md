@@ -15,8 +15,9 @@ Here is a trick to remember whether the inductor/capacitor lags or lead. "ELI th
 
 Q1 The small transformers that power many consumer products produce a 12.0 V rms, 60 Hz emf. Design a circuit using resistors and capacitors that uses the transformer voltage as an input and produces a 6.0 V rms output that leads the input voltage by 45°.
 
+[ciscode|rev=1|tool=elmsmedia|item=4979|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-
+[ciscode|rev=1|tool=elmsmedia|item=4981|entity_type=node|render=display_mode|display_mode=document__pdf]
 
 Q2 The figure below shows voltage and current graphs for a series RLC circuit.
 
@@ -25,3 +26,7 @@ Q2 The figure below shows voltage and current graphs for a series RLC circuit.
 a) What is the resistance R?
 
 b) If L = 200 µH, what is the resonance frequency in Hz?
+
+[ciscode|rev=1|tool=elmsmedia|item=4980|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+[ciscode|rev=1|tool=elmsmedia|item=4982|entity_type=node|render=display_mode|display_mode=document__pdf]
