@@ -8,4 +8,9 @@ Let us practice what we have learned with a few more examples.
 
 ## Problem Solving. 
 
-to appear
+Q1 The small transformers that power many consumer products produce a 12.0 V rms, 60 Hz emf. Design a circuit using resistors and capacitors that uses the transformer voltage as an input and produces a 6.0 V rms output that leads the input voltage by 45°.
+
+
+
+
+Q2
