@@ -13,4 +13,10 @@ Q1 The small transformers that power many consumer products produce a 12.0 V rms
 
 
 
-Q2
+Q2 The figure below shows voltage and current graphs for a series RLC circuit.
+
+[ciscode|rev=1|tool=elmsmedia|item=4978|entity_type=node|render=display_mode|display_mode=image]
+
+a) What is the resistance R?
+
+b) If L = 200 µH, what is the resonance frequency in Hz?
