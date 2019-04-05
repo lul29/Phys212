@@ -6,6 +6,11 @@ Here is our formula sheet on AC circuits (top right corner of this image is for 
 
 Let us practice what we have learned with a few more examples. 
 
+<lrndesign-sidenote label="Definition" icon="bookmark" bg-color="#c2c2a3">
+Here is a trick to remember whether the inductor/capacitor lags or lead. "ELI the ICE man". Emf leads the current (leads as in comes first) for an inductor (ELI) while the current leads the emf for a capacitor (ICE). 
+</lrndesign-sidenote>
+
+
 ## Problem Solving. 
 
 Q1 The small transformers that power many consumer products produce a 12.0 V rms, 60 Hz emf. Design a circuit using resistors and capacitors that uses the transformer voltage as an input and produces a 6.0 V rms output that leads the input voltage by 45°.
