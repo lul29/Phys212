@@ -32,6 +32,10 @@ Whats the point of all this? Two things. What we are interested is to see the la
 Just like when we did DC circuit with Kirchhoff's law the goal is to find the current. We keep things simpler here that we only look at a single loop, the R,L and C are all in series. The complication is that we want both the magnitude of the current and the phase that tells us how in sync or out of sync the current is with the power source. 
 </lrndesign-sidenote>
 
+<lrndesign-sidenote label="Definition" icon="bookmark" bg-color="#c2c2a3">
+We define the phase <lrn-math>\phi </lrn-math> when the current lags the emf. Negative if the current leads the emf. 
+</lrndesign-sidenote>
+
 
 Using Pythagoras and the known relationships between capacitive/inductive reactances, one arrives at
 
