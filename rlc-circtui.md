@@ -54,7 +54,7 @@ Using Pythagoras and the known relationships between capacitive/inductive reacta
  
 ## Resonance
 
-One can see that the impedance of an RLC circuit is minimized when the phasor for the inductor and capacitor exactly cancel. This is called resonance and the phase angle is zero, source emf and current are in phase. 
+One can see that the impedance of an RLC circuit is minimized when the phasor for the inductor and capacitor exactly cancel. This is called resonance and the phase angle is zero. The source emf and the current are in phase. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4969|entity_type=node|render=display_mode|display_mode=mediavideo]
 
