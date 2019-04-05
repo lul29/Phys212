@@ -25,8 +25,13 @@ To find the relationship between the peak values, **we add the phasors as vector
 The resulting addition of all the phasor will give the source phasor of length <lrn-math>\mathcal{E}_0 </lrn-math>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Whats the point of all this? Two things, what we are interested is to see the lag between the current in the circuit (aligned with V_R) and the emf of the source. This is denoted <lrn-math>\phi </lrn-math> in the figure. Second we can find a relationship for the size of the current. 
+Whats the point of all this? Two things. What we are interested is to see the lag (or lead) between the current in the circuit (aligned with V_R) and the emf of the source. This is denoted <lrn-math>\phi </lrn-math> in the figure. Second we want to know the size of the current. 
 </lrndesign-sidenote>
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+Just like when we did DC circuit with Kirchhoff's law the goal is to find the current. We keep things simpler here that we only look at a single loop, the R,L and C are all in series. The complication is that we want both the magnitude of the current and the phase that tells us how in sync or out of sync the current is with the power source. 
+</lrndesign-sidenote>
+
 
 Using Pythagoras and the known relationships between capacitive/inductive reactances, one arrives at
 
