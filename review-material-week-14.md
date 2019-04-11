@@ -1,0 +1,7 @@
+## Ampere's law
+
+
+
+
+
+## Oscillations. 
