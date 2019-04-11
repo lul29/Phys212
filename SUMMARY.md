@@ -82,5 +82,7 @@
   * [Problem Solving Videos AC Circuits](problem-solving-videos-ac-circuits.md)
 * [Week 14: Displacement Current and Intro to Waves](week-14-displacement-current-and-intro-to-waves.md)
 * [Review Material - Week 14](review-material-week-14.md)
+* [Displacement Current. ](displacement-current.md)
+* [Waves](waves.md)
 * [End of Book](end-of-book.md)
 
