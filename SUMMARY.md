@@ -84,5 +84,6 @@
 * [Review Material - Week 14](review-material-week-14.md)
 * [Displacement Current. ](displacement-current.md)
 * [Waves](waves.md)
+* [Problem Solving Videos Week 14](problem-solving-videos-week-14.md)
 * [End of Book](end-of-book.md)
 
