@@ -80,5 +80,12 @@
   * [RLC Circuit](rlc-circtui.md)
   * [Power](power.md)
   * [Problem Solving Videos AC Circuits](problem-solving-videos-ac-circuits.md)
+* [Week 14: Displacement Current and Intro to Waves](week-14-displacement-current-and-intro-to-waves.md)
+  * [Review Material - Week 14](review-material-week-14.md)
+  * [Displacement Current. ](displacement-current.md)
+  * [Waves](waves.md)
+  * [Speed equation](speed-equation.md)
+  * [Problem Solving Videos Week 14](problem-solving-videos-week-14.md)
+  * [Check your Understanding Week 14](check-your-understanding-week-14.md)
 * [End of Book](end-of-book.md)
 
