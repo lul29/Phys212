@@ -1,4 +1,4 @@
-## Problem Solving Videos. 
+## Problem Solving Videos.
 
 Q1
 A simple series circuit consists of a 150 Ω resistor, a 25 V battery, a switch, and a 2.5 pF parallel-plate capacitor (initially uncharged) with plates 5.0 mm apart. The switch is closed at t=0s.
@@ -24,6 +24,7 @@ c) Find an expression for the magnetic field strength as a function of time at a
 
 d) Find an expression for the magnetic field strength as a function of time at a distance r>R from the center. Evaluate the magnetic field strength at r=4.0mm, t=2.0s.
 
-[ciscode|rev=1|tool=elmsmedia|item=4993|entity_type=node|render=display_mode|display_mode=document__pdf]
 
 [ciscode|rev=1|tool=elmsmedia|item=4994|entity_type=node|render=display_mode|display_mode=mediavideo]
+[ciscode|rev=1|tool=elmsmedia|item=4993|entity_type=node|render=display_mode|display_mode=document__pdf]
+
