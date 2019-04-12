@@ -36,7 +36,13 @@ Then Ampere-Maxwell law is
 
 <lrn-math>\oint \vec{B}\cdot d\vec{l} = \mu_0 I_{through} + \mu_0\epsilon_0 \frac{d\Phi_e}{dt} </lrn-math>
 
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+The last is really <lrn-math>\mu_0 I_{disp}. Note that this last term looks very similar to Faraday's law with two important difference. There is a prefactor of <lrn-math>\epsilon_0\mu_0 </lrn-math> and it **it is a + sign**. 
+</lrndesign-sidenote>
 
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+The plus sign means that the induced magnetic field due to a changing E field obeys the opposite of Lenz's law. It wants to reinforce the change.
+</lrndesign-sidenote>
 
 
 Example 31.3 is important. Most applications of the displacement current
