@@ -8,6 +8,7 @@ a) After the switch is closed, find the maximum electric flux and the maximum di
 b) Find the electric flux and the displacement current at t=0.50ns.
 
 
+[ciscode|rev=1|tool=elmsmedia|item=4992|entity_type=node|render=display_mode|display_mode=document__pdf]
 
 Q2 The figure below shows the electric field inside a cylinder of radius R=3.0mm. The field strength is increasing with time as <lrn-math> E=1.0\times10^8t^2 V/m</lrn-math>, where t is in s. The electric field outside the cylinder is always zero, and the field inside the cylinder was zero for t<0.
 
