@@ -20,7 +20,7 @@ A fun extra side note. The study of the concept of relativity in E&M led to the 
 
 Maxwell was the first to realize that there must be a missing terms in Ampere's related to the change in electric flux.
 
-The book motivates this term by looking at a RC circuit. When you apply Ampere'e, the surface delimited by the closed curve can have any shape.  
+The book motivates this term by looking at a RC circuit. When you apply Ampere'e, the surface delimited by the closed curve can have any shape. 
 
 [ciscode|rev=1|tool=elmsmedia|item=4986|entity_type=node|render=display_mode|display_mode=image]
 
@@ -37,7 +37,7 @@ Then Ampere-Maxwell law is
 <lrn-math>\oint \vec{B}\cdot d\vec{l} = \mu_0 I_{through} + \mu_0\epsilon_0 \frac{d\Phi_e}{dt} </lrn-math>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The last term is really <lrn-math>\mu_0 I_{disp}. Note that this looks very similar to Faraday's law with two important differences. There is a pre-factor of <lrn-math>\epsilon_0\mu_0 </lrn-math> and it **it is a + sign**.
+The last term is really <lrn-math>\mu_0 I_{disp}</lrn-math>. Note that this looks very similar to Faraday's law with two important differences. There is a pre-factor of <lrn-math>\epsilon_0\mu_0 </lrn-math> and it **it is a + sign**.
 </lrndesign-sidenote>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
@@ -45,7 +45,7 @@ The plus sign means that the induced magnetic field due to a changing E field ob
 </lrndesign-sidenote>
 
 
-Example 31.3 is important. Most applications of the displacement current involve capacitors. 
+Example 31.3 is important. Most applications of the displacement current involve capacitors.
 
 
 [ciscode|rev=1|tool=elmsmedia|item=4985|entity_type=node|render=display_mode|display_mode=h5p]
