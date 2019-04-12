@@ -16,7 +16,7 @@ Let us compare two laws of E&M that we have seen.
 * Similarly the magnetic flux on the right hand side of Faraday's law is the flux that goes through the area bounded by the "amperian" curve.
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The equations look very similar. Remember that in magnetism, we have never seen a magnetic charge, we will only see dipole. If there existed magnetic charges in the Universe and these charges were to move to create a "magnetic current", we would expect a term like <lrn-math>\mu_o I_{magnetic}  </lrn-math> on the right-hand side of Faraday's law. We have never seen such charges so it make sense that this terms is not there.
+The equations look very similar. Remember that in magnetism, we do not have magnetic charges, we only see dipoles. If there was magnetic charges in the Universe and these charges were to move to create a "magnetic current", we would expect a term like <lrn-math>\mu_o I_{magnetic}  </lrn-math> on the right-hand side of Faraday's law. We have never seen such charges so it make sense that this terms is not there.
 </lrndesign-sidenote>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
