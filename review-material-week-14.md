@@ -11,8 +11,6 @@ Let us compare two laws of E&M that we have seen.
 <lrn-math> \oint \vec{E}\cdot d\vec{l} = -\frac{d\Phi_m}{dt} </lrn-math>
 
 
-Remember that 
-
 * The "amperian" path, the curve in the line integral,  is an arbitrary closed curve. You can choose it however you want. This is true in both Faraday's law and Ampere's. You choose the curve to evaluate the integral.
 * The current in the right hand side of Ampere's law has to pierce through the surface delimited by the closed curve.
 * Similarly the magnetic flux on the right hand side of Faraday's law is the flux that goes through the area bounded by the "amperian" curve.
