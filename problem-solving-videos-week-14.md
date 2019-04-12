@@ -7,6 +7,7 @@ a) After the switch is closed, find the maximum electric flux and the maximum di
 
 b) Find the electric flux and the displacement current at t=0.50ns.
 
+[ciscode|rev=1|tool=elmsmedia|item=4995|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 [ciscode|rev=1|tool=elmsmedia|item=4992|entity_type=node|render=display_mode|display_mode=document__pdf]
 
