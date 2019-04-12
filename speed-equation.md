@@ -1,4 +1,4 @@
-## The speed of a Wave
+## The Speed of a Wave
 
 Starting from
 
