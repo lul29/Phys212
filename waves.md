@@ -4,17 +4,17 @@
 <span slot="message">16.1-16.3 and 16.7-16.8</span>
 </stop-note>
 
-We are not doing all of this chapter and we will not do too much with pulse type waves. We will mostly concentrate on the sinusoidal wave of section 16.3. Section 16.7 extends the discussion to 2 and 3D while 16.8 discusses energy and intensity of a wave.  
+We are not doing all of this chapter and we will not do too much with pulse type waves. We will mostly concentrate on the sinusoidal wave of section 16.3. Section 16.7 extends the discussion to 2 and 3D while 16.8 discusses energy and intensity of a wave. 
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Section 16.4 derives the wave equation. This is a very important differential equation in physics and it will be re-derived next week for the electromagnetic wave but the math is beyond the level of this course. Worth to have a look though. 
+Section 16.4 derives the wave equation. This is a very important differential equation in physics and it will be re-derived next week for the electromagnetic wave but the math is beyond the level of this course. Worth to have a look though.
 </lrndesign-sidenote>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
- Chap 16 is a general treatment of any wave. We will focus on the E&M wave which is a transverse wave. 
+ Chap 16 is a general treatment of any wave. We will focus on the E&M wave which is a transverse wave.
 </lrndesign-sidenote>
 
-In the video below, I allude to the E&M wave which we will look into next week. 
+In the video below, I allude to the E&M wave which we will see next week.
 [ciscode|rev=1|tool=elmsmedia|item=4987|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 [ciscode|rev=1|tool=elmsmedia|item=2096|entity_type=node|render=display_mode|display_mode=image]
@@ -42,6 +42,6 @@ A wave varies in space with wavelength <lrn-math>\lambda</lrn-math>. A plot of a
 The wavelength is the distance between peaks. **Note that position, x, not the time, is on the horizontal axis.** This is important not to confuse this figure ("Graphical Representation of Wave") with the oscillation graph ("Graph of an Oscillatory Motion").
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-This is super important, a wave has two oscillations, in time and in space. The book use the wording of the snapshot graph (oscillate in space at a given time) and a history graph (at a point in space, what happened over time). When you look at a wave graph, take note on the horizontal axis to make sure you know which one is which. 
+This is super important, a wave has two oscillations, in time and in space. The book use the wording of the snapshot graph (oscillate in space at a given time) and a history graph (at a point in space, what happened over time). When you look at a wave graph, take note on the horizontal axis to make sure you know which one is which.
 </lrndesign-sidenote>
 
