@@ -22,3 +22,5 @@ b) Draw a picture showing the magnetic field lines inside and outside the cylind
 c) Find an expression for the magnetic field strength as a function of time at a distance r<R from the center.
 
 d) Find an expression for the magnetic field strength as a function of time at a distance r>R from the center. Evaluate the magnetic field strength at r=4.0mm, t=2.0s.
+
+[ciscode|rev=1|tool=elmsmedia|item=4993|entity_type=node|render=display_mode|display_mode=document__pdf]
