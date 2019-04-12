@@ -35,7 +35,7 @@ Some notes
 * There is no real derivation of this or Biot-Savard. You should think of this as a fundamental law of nature that was discovered via experimental evidence.
  
  <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Note the similarities and differences with Gauss' Law. Gauss'law involve a close surface while Ampere's law involves closed curve. Note that the only the current going through the curve matters. Any outside current will lead to contribution that cancels. The shape and position of the Amperian curve does not matter (just like it did not matter for the Gaussian surfaces.
+Note the similarities and differences with Gauss' Law. Gauss'law involve a close surface while Ampere's law involves a closed curve. Note that the only the current going through the curve matters. Any outside current will lead to contribution that cancels. The shape and position of the Amperian curve does not matter (just like it did not matter for the Gaussian surfaces.
 </lrndesign-sidenote>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
