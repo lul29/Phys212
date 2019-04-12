@@ -20,24 +20,24 @@ A fun extra side note. The study of the concept of relativity in E&M led to the 
 
 Maxwell was the first to realize that there must be a missing terms in Ampere's related to the change in electric flux.
 
-The book motivate this terms by looking at capacitor circuit and nothing that the amperian curve and surface can have any shape.
+The book motivates this term by looking at a RC circuit. When you apply Ampere'e, the surface delimited by the closed curve can have any shape.  
 
 [ciscode|rev=1|tool=elmsmedia|item=4986|entity_type=node|render=display_mode|display_mode=image]
 
-The two surfaces in the figure above should give the same answer for the B field but one on the left as an electric current made of electric charges piercing through it while the one on the right just has the flux of the electric field from the capacitor.
+The two surfaces in the figure above should give the same answer for the B field but the one on the left has an electric current made of electric charges piercing through it while the one on the right just has the flux of the electric field from the capacitor. If you use the surface on the right, you would not naïvely (using original Ampere's law) expect a B Field and yet it is there!
 
-You can make Ampere's law if you imagine that there is a current inside the capacitor. We call it the displacement current.
+You can make Ampere's law work if you imagine that there is a current inside the capacitor. We call it the displacement current.
 
 <lrn-math>I_{disp}=\epsilon_0 \frac{d\Phi_e}{dt} </lrn-math>
 
-This had unit of current (amps) but it is not really due to the motion of charges. It is just a changing flux of electric field.
+This has unit of current (amps) but it is not really due to the motion of charges. It is a changing flux of electric field.
 
 Then Ampere-Maxwell law is
 
 <lrn-math>\oint \vec{B}\cdot d\vec{l} = \mu_0 I_{through} + \mu_0\epsilon_0 \frac{d\Phi_e}{dt} </lrn-math>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-The last is really <lrn-math>\mu_0 I_{disp}. Note that this last term looks very similar to Faraday's law with two important difference. There is a prefactor of <lrn-math>\epsilon_0\mu_0 </lrn-math> and it **it is a + sign**.
+The last term is really <lrn-math>\mu_0 I_{disp}. Note that this looks very similar to Faraday's law with two important differences. There is a pre-factor of <lrn-math>\epsilon_0\mu_0 </lrn-math> and it **it is a + sign**.
 </lrndesign-sidenote>
 
 <lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
@@ -45,7 +45,7 @@ The plus sign means that the induced magnetic field due to a changing E field ob
 </lrndesign-sidenote>
 
 
-Example 31.3 is important. Most applications of the displacement current
+Example 31.3 is important. Most applications of the displacement current involve capacitors. 
 
 
 [ciscode|rev=1|tool=elmsmedia|item=4985|entity_type=node|render=display_mode|display_mode=h5p]
