@@ -88,5 +88,6 @@
   * [Problem Solving Videos Week 14](problem-solving-videos-week-14.md)
   * [Check your Understanding Week 14](check-your-understanding-week-14.md)
 * [Week 15: Electromagnetic Waves](week-15-electromagnetic-waves.md)
+* [The different name of the E&M Wave](the-different-name-of-the-eandm-wave.md)
 * [End of Book](end-of-book.md)
 
