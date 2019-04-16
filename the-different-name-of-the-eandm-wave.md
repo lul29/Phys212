@@ -1,4 +1,4 @@
-## 
+## Qualitative Overview. 
 
 You will remember that electric charges are producing electric fields everywhere in space, and these electric fields are what cause the electric force of repulsion and attraction between charges. We also saw that if the electric field (E) is changing (for example, if an electron is moving in a current), it creates a magnetic field B.
 
