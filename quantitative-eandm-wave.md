@@ -12,3 +12,14 @@ The derivation of the wave equation in sec 31.5 is fairly math heavy and non-ess
 In the video below, Le and I illustrate a basic radio system.  
 
 [ciscode|rev=1|tool=elmsmedia|item=4999|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+
+Let me summarize the most important properties of the E&M wave
+
+* It is a transverse wave of an oscillating E and B field. The E field and B field are perpendicular to the direction of motion of the wave. 
+* The E and B fields are perpendicular to one another
+* The E and B fields are in phase (they max out at the same time). 
+* The amplitude of E and B are related by <lrn-math> E=cB </lrn-math>
+* The speed of the E&M wave in vacuum is <lrn-math>c=\frac{1}{\sqrt{\epsilon_0\mu_0} 299792458 m/s approx 3\times 10^8 m/s</lrn-math>                                                                                       
+
+[ciscode|rev=1|tool=elmsmedia|item=5002|entity_type=node|render=display_mode|display_mode=image]
