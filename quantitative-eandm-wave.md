@@ -13,7 +13,6 @@ In the video below, Le and I illustrate a basic radio system.
 
 [ciscode|rev=1|tool=elmsmedia|item=4999|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-
 Let me summarize the most important properties of the E&M wave
 
 * It is a transverse wave of an oscillating E and B field. The E field and B field are perpendicular to the direction of motion of the wave. 
