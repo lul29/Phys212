@@ -1,5 +1,7 @@
 ## Qualitative Overview. 
 
+Before we go into the details of the E&M wave, let me give you an overview of the subject from a qualitative and conceptual perspective .
+
 You will remember that electric charges are producing electric fields everywhere in space, and these electric fields are what cause the electric force of repulsion and attraction between charges. We also saw that if the electric field (E) is changing (for example, if an electron is moving in a current), it creates a magnetic field B.
 
 [ciscode|rev=1|tool=elmsmedia|item=2173|entity_type=node|render=display_mode|display_mode=image]
@@ -20,9 +22,9 @@ where c stands for the speed of light.
 
 ## Amplitude, Power and Intensity
 
-Just like any other wave, the electromagnetic wave has, in addition to a wavelength and frequency, an amplitude (A). The bigger the amplitude, the more energy and momentum it carries.
+Just like any other wave, the electromagnetic wave has, in addition to a wavelength and frequency, an amplitude (A) which is proportional to the max E or B field. The bigger the amplitude, the more energy and momentum it carries.
 
-Instead of talking about the amplitude, we often talk about the intensity of a wave I. This is the average energy transferred over a certain area. This is averaged over one cycle of oscillation. The intensity can be written as the power (energy per time) divided by the area
+Instead of talking about the amplitude of the wave, we often talk about the intensity of a wave I. This is the average energy transferred over a certain area. This is averaged over one cycle of oscillation. The intensity can be written as the power (energy per time) divided by the area
 
 <lrn-math> I = \frac {\rm{Power}}{\rm{Area}} </lrn-math>
 
