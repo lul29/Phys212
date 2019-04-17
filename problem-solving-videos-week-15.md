@@ -4,6 +4,7 @@ a) What are the values of a and <lrn-math>B_0 </lrn-math>?
 
 b) What is the Poynting vector at this time and position?
 
+[ciscode|rev=1|tool=elmsmedia|item=5008|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 [ciscode|rev=1|tool=elmsmedia|item=5006|entity_type=node|render=display_mode|display_mode=document__pdf]
 
